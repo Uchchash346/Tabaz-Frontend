@@ -7,6 +7,7 @@ import BannerEleven from "../../wrappers/banner/BannerEleven";
 import CountDownThree from "../../wrappers/countdown/CountDownThree";
 import FeatureIconFour from "../../wrappers/feature-icon/FeatureIconFour";
 import NewsletterThree from "../../wrappers/newsletter/NewsletterThree";
+import BannerThirty from "../../wrappers/banner/BannerThirty";
 
 const HomeFashionSeven = () => {
   return (
@@ -37,6 +38,8 @@ const HomeFashionSeven = () => {
           dateTime="November 13, 2023 12:12:00"
           countDownImage="/assets/img/banner/deal-banner.webp"
         />
+        {/* banner */}
+        <BannerThirty spaceTopClass="pt-100" spaceBottomClass="pb-70" />
         {/* feature icon */}
         <FeatureIconFour
           bgImg="/assets/img/bg/shape.png"
@@ -44,7 +47,7 @@ const HomeFashionSeven = () => {
           gutterClass="padding-10-row-col"
           spaceTopClass="pt-50"
           spaceBottomClass="pb-40"
-        />
+        />        
         {/* newsletter */}
         <NewsletterThree
           spaceTopClass="pt-100"

@@ -12,7 +12,7 @@ const BannerTwentyEight = ({ spaceTopClass, spaceBottomClass }) => {
               <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
                 <img
                   src={
-                    process.env.PUBLIC_URL + "/assets/img/banner/banner-37.jpg"
+                    process.env.PUBLIC_URL + "/assets/img/banner/banner-37.jpg" 
                   }
                   alt=""
                   className="img-fluid"

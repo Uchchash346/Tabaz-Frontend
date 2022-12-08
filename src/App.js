@@ -156,10 +156,10 @@ const App = () => {
                 path={process.env.PUBLIC_URL + "/home-fashion-seven"}
                 element={<HomeFashionSeven/>}
               /> */}
-              {/* <Route
+              <Route
                 path={process.env.PUBLIC_URL + "/home-fashion-eight"}
                 element={<HomeFashionEight/>}
-              /> */}
+              />
               {/* <Route
                 path={process.env.PUBLIC_URL + "/home-kids-fashion"}
                 element={<HomeKidsFashion/>}
