@@ -2,7 +2,7 @@
   {
     "id": 1,
     "image": "/assets/img/banner/uc-banner-(960X300)-1.webp",
-    "title": "Men Fashion Shop",
+    "title": "New Arrival",
     "subtitle": "Choose Your Products Here",
     "link": "/shop-grid-standard",
     "textAlign": "right"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "image": "/assets/img/banner/uc-banner-(960X300)-2.webp",
-    "title": "Women Fashion Shop",
+    "title": "Victory Day Special",
     "subtitle": "Choose Your Products Here",
     "link": "/shop-grid-standard",
     "textAlign": "left"
