@@ -119,68 +119,71 @@ const App = () => {
             }
           >
             <Routes>
-              <Route
+            <Route
                 path={process.env.PUBLIC_URL + "/"}
-                element={<HomeFashion/>}
+                element={<HomeFashionSeven/>}
               />
 
               {/* Homepages */}
-              <Route
+              {/* <Route
                 path={process.env.PUBLIC_URL + "/home-fashion"}
                 element={<HomeFashion/>}
-              />
-              <Route
+              /> */}
+              {/* <Route
                 path={process.env.PUBLIC_URL + "/home-fashion-two"}
                 element={<HomeFashionTwo/>}
-              />
-              <Route
+              /> */}
+              {/* <Route
                 path={process.env.PUBLIC_URL + "/home-fashion-three"}
                 element={<HomeFashionThree/>}
-              />
-              <Route
+              /> */}
+              {/* <Route
                 path={process.env.PUBLIC_URL + "/home-fashion-four"}
                 element={<HomeFashionFour/>}
-              />
-              <Route
+              /> */}
+              {/* <Route
                 path={process.env.PUBLIC_URL + "/home-fashion-five"}
                 element={<HomeFashionFive/>}
-              />
-              <Route
+              /> */}
+              {/* <Route
                 path={process.env.PUBLIC_URL + "/home-fashion-six"}
                 element={<HomeFashionSix/>}
-              />
-              <Route
+              /> */}
+              {/* =================================================== */}
+              {/* edited home fashion seven */}
+              {/* =================================================== */}
+              {/* <Route
                 path={process.env.PUBLIC_URL + "/home-fashion-seven"}
                 element={<HomeFashionSeven/>}
-              />
-              <Route
+              /> */}
+              {/* <Route
                 path={process.env.PUBLIC_URL + "/home-fashion-eight"}
                 element={<HomeFashionEight/>}
-              />
-              <Route
+              /> */}
+              {/* <Route
                 path={process.env.PUBLIC_URL + "/home-kids-fashion"}
                 element={<HomeKidsFashion/>}
-              />
-              <Route
+              /> */}
+              {/* <Route
                 path={process.env.PUBLIC_URL + "/home-cosmetics"}
                 element={<HomeCosmetics/>}
-              />
-              <Route
+              /> */}
+              {/* <Route
                 path={process.env.PUBLIC_URL + "/home-furniture"}
                 element={<HomeFurniture/>}
-              />
-              <Route
+              /> */}
+              {/* <Route
                 path={process.env.PUBLIC_URL + "/home-furniture-two"}
                 element={<HomeFurnitureTwo/>}
-              />
-              <Route
+              /> */}
+              {/* <Route
                 path={process.env.PUBLIC_URL + "/home-furniture-three"}
                 element={<HomeFurnitureThree/>}
-              />
-              <Route
+              /> */}
+              {/* <Route
                 path={process.env.PUBLIC_URL + "/home-furniture-four"}
                 element={<HomeFurnitureFour/>}
-              />
+              /> */}
               <Route
                 path={process.env.PUBLIC_URL + "/home-furniture-five"}
                 element={<HomeFurnitureFive/>}

@@ -17,7 +17,7 @@ const BannerSevenSingle = ({ data, spaceBottomClass }) => {
             <i className="fa fa-long-arrow-right" />
           </Link>
         </div>
-      </div>
+      </div> 
   );
 };
 
