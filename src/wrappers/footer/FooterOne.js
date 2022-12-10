@@ -81,15 +81,15 @@ const FooterOne = ({
               <div className="footer-list">
                 <ul>
                   <li>
-                    <Link to={process.env.PUBLIC_URL + "#/"}>Returns</Link>
+                    <Link to={process.env.PUBLIC_URL + "/returns"}>Returns</Link>
                   </li>
                   <li>
-                    <Link to={process.env.PUBLIC_URL + "#/"}>
-                      Support Policy
+                    <Link to={process.env.PUBLIC_URL + "/refund-policy"}>
+                      Refund Policy
                     </Link>
                   </li>
                   <li>
-                    <Link to={process.env.PUBLIC_URL + "#/"}>Size guide</Link>
+                    <Link to={process.env.PUBLIC_URL + "/size-guide"}>Size guide</Link>
                   </li>
                   <li>
                     <Link to={process.env.PUBLIC_URL + "#/"}>FAQs</Link>

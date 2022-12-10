@@ -96,6 +96,9 @@ const About = lazy(() => import("./pages/other/About"));
 const Contact = lazy(() => import("./pages/other/Contact"));
 const MyAccount = lazy(() => import("./pages/other/MyAccount"));
 const LoginRegister = lazy(() => import("./pages/other/LoginRegister"));
+const Returns = lazy(() => import("./pages/other/Returns"));
+const RefundPolicy = lazy(() => import("./pages/other/RefundPolicy"));
+const SizeGuide = lazy(() => import("./pages/other/SizeGuide"));
 
 const Cart = lazy(() => import("./pages/other/Cart"));
 const Wishlist = lazy(() => import("./pages/other/Wishlist"));
@@ -184,10 +187,10 @@ const App = () => {
                 path={process.env.PUBLIC_URL + "/home-furniture-four"}
                 element={<HomeFurnitureFour/>}
               /> */}
-              <Route
+              {/* <Route
                 path={process.env.PUBLIC_URL + "/home-furniture-five"}
                 element={<HomeFurnitureFive/>}
-              />
+              /> */}
               <Route
                 path={process.env.PUBLIC_URL + "/home-furniture-six"}
                 element={<HomeFurnitureSix/>}
@@ -379,6 +382,21 @@ const App = () => {
               <Route
                 path={process.env.PUBLIC_URL + "/login-register"}
                 element={<LoginRegister/>}
+              />
+              
+              <Route
+                path={process.env.PUBLIC_URL + "/returns"}
+                element={<Returns/>}
+              />
+             
+              <Route
+                path={process.env.PUBLIC_URL + "/refund-policy"}
+                element={<RefundPolicy/>}
+              />
+              
+              <Route
+                path={process.env.PUBLIC_URL + "/size-guide"}
+                element={<SizeGuide/>}
               />
 
               <Route

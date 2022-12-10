@@ -9,6 +9,7 @@ import FeatureIconFour from "../../wrappers/feature-icon/FeatureIconFour";
 import NewsletterThree from "../../wrappers/newsletter/NewsletterThree";
 import BannerThirty from "../../wrappers/banner/BannerThirty";
 import VideoPopupTwo from "../../components/video-popup/VideoPopupTwo";
+import TestimonialTwo from "../../wrappers/testimonial/TestimonialTwo";
 
 const HomeFashionSeven = () => {
   return (
@@ -45,6 +46,16 @@ const HomeFashionSeven = () => {
         {/* video popup */}
         <VideoPopupTwo spaceBottomClass="pb-100" />
 
+        {/* testimonial */}
+        <TestimonialTwo
+          spaceTopClass="pt-100"
+          spaceBottomClass="pb-95"
+          spaceLeftClass="ml-70"
+          spaceRightClass="mr-70"
+          bgColorClass="bg-gray-3"
+          backgroundImage="/assets/img/bg/testimonial-bg.jpg"
+        />
+
         {/* feature icon */}
         <FeatureIconFour
           bgImg="/assets/img/bg/shape.png"
@@ -53,6 +64,7 @@ const HomeFashionSeven = () => {
           spaceTopClass="pt-50"
           spaceBottomClass="pb-40"
         />
+
         {/* newsletter */}
         <NewsletterThree
           spaceTopClass="pt-100"
