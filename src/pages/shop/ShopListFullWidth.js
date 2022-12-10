@@ -51,7 +51,7 @@ const ShopListFullWidth = ({location}) => {
         <Fragment>
             <SEO
                 titleTemplate="Shop Page"
-                description="Shop page of flone react minimalist eCommerce template."
+                description="Shop page of tavaas react minimalist eCommerce template."
             />
 
             <LayoutOne headerTop="visible">
