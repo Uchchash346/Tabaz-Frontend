@@ -8,6 +8,7 @@ import CountDownThree from "../../wrappers/countdown/CountDownThree";
 import FeatureIconFour from "../../wrappers/feature-icon/FeatureIconFour";
 import NewsletterThree from "../../wrappers/newsletter/NewsletterThree";
 import BannerThirty from "../../wrappers/banner/BannerThirty";
+import VideoPopupTwo from "../../components/video-popup/VideoPopupTwo";
 
 const HomeFashionSeven = () => {
   return (
@@ -19,7 +20,7 @@ const HomeFashionSeven = () => {
       <LayoutOne
         headerContainerClass="container-fluid"
         headerPaddingClass="header-padding-2"
-        headerTop="invisible"
+        headerTop="visible"
       >
         {/* hero slider */}
         <HeroSliderFifteen />
@@ -40,6 +41,10 @@ const HomeFashionSeven = () => {
         />
         {/* banner */}
         <BannerThirty spaceTopClass="pt-100" spaceBottomClass="pb-70" />
+
+        {/* video popup */}
+        <VideoPopupTwo spaceBottomClass="pb-100" />
+
         {/* feature icon */}
         <FeatureIconFour
           bgImg="/assets/img/bg/shape.png"
@@ -47,7 +52,7 @@ const HomeFashionSeven = () => {
           gutterClass="padding-10-row-col"
           spaceTopClass="pt-50"
           spaceBottomClass="pb-40"
-        />        
+        />
         {/* newsletter */}
         <NewsletterThree
           spaceTopClass="pt-100"

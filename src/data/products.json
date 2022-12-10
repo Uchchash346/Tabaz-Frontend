@@ -2,15 +2,23 @@
   {
     "id": "1",
     "sku": "asdf123",
-    "name": "Lorem ipsum jacket",
+    "name": "Panjabi | Product Code 101",
     "price": 12.45,
     "discount": 10,
     "offerEnd": "October 5, 2024 12:11:00",
     "new": false,
     "rating": 4,
     "saleCount": 54,
-    "category": ["fashion", "men"],
-    "tag": ["fashion", "men", "jacket", "full sleeve"],
+    "category": [
+      "fashion",
+      "men"
+    ],
+    "tag": [
+      "fashion",
+      "men",
+      "jacket",
+      "full sleeve"
+    ],
     "variation": [
       {
         "color": "white",
@@ -88,14 +96,22 @@
   {
     "id": "2",
     "sku": "asdf124",
-    "name": "Lorem ipsum coat",
+    "name": "Panjabi | Product Code 101",
     "price": 18.5,
     "discount": 15,
     "new": false,
     "rating": 3,
     "saleCount": 12,
-    "category": ["fashion", "women"],
-    "tag": ["fashion", "women", "coat", "full sleeve"],
+    "category": [
+      "fashion",
+      "women"
+    ],
+    "tag": [
+      "fashion",
+      "women",
+      "coat",
+      "full sleeve"
+    ],
     "variation": [
       {
         "color": "blue",
@@ -170,19 +186,26 @@
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
   },
-
   {
     "id": "3",
     "sku": "asdf125",
-    "name": "Lorem ipsum jacket",
+    "name": "Panjabi | Product Code 101",
     "price": 17.45,
     "discount": 40,
     "offerEnd": "October 2, 2024 12:11:00",
     "new": true,
     "rating": 5,
     "saleCount": 36,
-    "category": ["fashion", "men"],
-    "tag": ["fashion", "men", "jacket", "full sleeve"],
+    "category": [
+      "fashion",
+      "men"
+    ],
+    "tag": [
+      "fashion",
+      "men",
+      "jacket",
+      "full sleeve"
+    ],
     "stock": 1,
     "image": [
       "/assets/img/product/fashion/3.jpg",
@@ -197,14 +220,22 @@
   {
     "id": "4",
     "sku": "asdf126",
-    "name": "Lorem ipsum fashion coat",
+    "name": "Panjabi | Product Code 101",
     "price": 15.5,
     "discount": 0,
     "new": true,
     "rating": 4,
     "saleCount": 20,
-    "category": ["fashion", "women"],
-    "tag": ["fashion", "women", "coat", "full sleeve"],
+    "category": [
+      "fashion",
+      "women"
+    ],
+    "tag": [
+      "fashion",
+      "women",
+      "coat",
+      "full sleeve"
+    ],
     "variation": [
       {
         "color": "blue",
@@ -282,14 +313,22 @@
   {
     "id": "5",
     "sku": "asdf127",
-    "name": "Lorem ipsum female coat",
+    "name": "Panjabi | Product Code 101",
     "price": 25.5,
     "discount": 10,
     "new": true,
     "rating": 5,
     "saleCount": 25,
-    "category": ["fashion", "women"],
-    "tag": ["fashion", "women", "coat", "full sleeve"],
+    "category": [
+      "fashion",
+      "women"
+    ],
+    "tag": [
+      "fashion",
+      "women",
+      "coat",
+      "full sleeve"
+    ],
     "variation": [
       {
         "color": "blue",
@@ -367,15 +406,23 @@
   {
     "id": "6",
     "sku": "asdf128",
-    "name": "Lorem ipsum jacket",
-    "price": 19.85,
+    "name": "Panjabi | Product Code 101",
+    "price": 19.82,
     "discount": 0,
     "offerEnd": "October 17, 2024 12:11:00",
     "new": true,
     "rating": 5,
     "saleCount": 65,
-    "category": ["fashion", "men"],
-    "tag": ["fashion", "men", "jacket", "full sleeve"],
+    "category": [
+      "fashion",
+      "men"
+    ],
+    "tag": [
+      "fashion",
+      "men",
+      "jacket",
+      "full sleeve"
+    ],
     "variation": [
       {
         "color": "white",
@@ -453,14 +500,22 @@
   {
     "id": "7",
     "sku": "asdf129",
-    "name": "Lorem ipsum fashion female coat",
+    "name": "Panjabi | Product Code 101",
     "price": 55.5,
     "discount": 40,
     "new": true,
     "rating": 5,
     "saleCount": 55,
-    "category": ["fashion", "women"],
-    "tag": ["fashion", "women", "coat", "full sleeve"],
+    "category": [
+      "fashion",
+      "women"
+    ],
+    "tag": [
+      "fashion",
+      "women",
+      "coat",
+      "full sleeve"
+    ],
     "variation": [
       {
         "color": "blue",
@@ -538,15 +593,23 @@
   {
     "id": "8",
     "sku": "asdf130",
-    "name": "Lorem ipsum fashion jacket",
+    "name": "Panjabi | Product Code 101",
     "price": 29.85,
     "discount": 10,
     "offerEnd": "October 18, 2024 12:11:00",
     "new": false,
     "rating": 5,
     "saleCount": 83,
-    "category": ["fashion", "men"],
-    "tag": ["fashion", "men", "jacket", "full sleeve"],
+    "category": [
+      "fashion",
+      "men"
+    ],
+    "tag": [
+      "fashion",
+      "men",
+      "jacket",
+      "full sleeve"
+    ],
     "stock": 0,
     "image": [
       "/assets/img/product/fashion/8.jpg",
@@ -561,14 +624,22 @@
   {
     "id": "9",
     "sku": "asdf131",
-    "name": "Lorem ipsum fashion female top",
+    "name": "Panjabi | Product Code 101",
     "price": 35.6,
     "discount": 0,
     "new": false,
     "rating": 4,
     "saleCount": 95,
-    "category": ["fashion", "women"],
-    "tag": ["fashion", "women", "top", "sleeveless"],
+    "category": [
+      "fashion",
+      "women"
+    ],
+    "tag": [
+      "fashion",
+      "women",
+      "top",
+      "sleeveless"
+    ],
     "stock": 5,
     "affiliateLink": "//www.amazon.com",
     "image": [
@@ -584,14 +655,18 @@
   {
     "id": "10",
     "sku": "asdf132",
-    "name": "Lorem ipsum blender",
+    "name": "Panjabi | Product Code 101",
     "price": 15.6,
     "discount": 0,
     "new": false,
     "rating": 4,
     "saleCount": 90,
-    "category": ["electronics"],
-    "tag": ["electronics"],
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
     "stock": 15,
     "image": [
       "/assets/img/product/electronics/1.jpg",
@@ -606,14 +681,18 @@
   {
     "id": "11",
     "sku": "asdf133",
-    "name": "Lorem ipsum speaker",
+    "name": "Panjabi | Product Code 101",
     "price": 10.6,
     "discount": 10,
     "new": true,
     "rating": 5,
     "saleCount": 190,
-    "category": ["electronics"],
-    "tag": ["electronics"],
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
     "stock": 25,
     "image": [
       "/assets/img/product/electronics/2.jpg",
@@ -628,14 +707,18 @@
   {
     "id": "12",
     "sku": "asdf134",
-    "name": "Lorem ipsum camera",
+    "name": "Panjabi | Product Code 101",
     "price": 12.5,
     "discount": 20,
     "new": true,
     "rating": 3,
     "saleCount": 90,
-    "category": ["electronics"],
-    "tag": ["electronics"],
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
     "stock": 20,
     "image": [
       "/assets/img/product/electronics/3.jpg",
@@ -650,14 +733,18 @@
   {
     "id": "13",
     "sku": "asdf135",
-    "name": "Lorem ipsum monitor",
+    "name": "Panjabi | Product Code 101",
     "price": 14.5,
     "discount": 30,
     "new": false,
     "rating": 4,
     "saleCount": 100,
-    "category": ["electronics"],
-    "tag": ["electronics"],
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
     "stock": 40,
     "image": [
       "/assets/img/product/electronics/4.jpg",
@@ -672,14 +759,18 @@
   {
     "id": "14",
     "sku": "asdf136",
-    "name": "Lorem ipsum small speaker",
+    "name": "Panjabi | Product Code 101",
     "price": 2.5,
     "discount": 10,
     "new": true,
     "rating": 5,
     "saleCount": 120,
-    "category": ["electronics"],
-    "tag": ["electronics"],
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
     "stock": 45,
     "image": [
       "/assets/img/product/electronics/5.jpg",
@@ -694,14 +785,18 @@
   {
     "id": "15",
     "sku": "asdf137",
-    "name": "Lorem ipsum microphone",
+    "name": "Panjabi | Product Code 101",
     "price": 12.5,
     "discount": 0,
     "new": false,
     "rating": 4,
     "saleCount": 20,
-    "category": ["electronics"],
-    "tag": ["electronics"],
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
     "stock": 5,
     "image": [
       "/assets/img/product/electronics/6.jpg",
@@ -716,14 +811,18 @@
   {
     "id": "16",
     "sku": "asdf138",
-    "name": "Lorem ipsum grinder",
+    "name": "Panjabi | Product Code 101",
     "price": 22.5,
     "discount": 20,
     "new": true,
     "rating": 5,
     "saleCount": 25,
-    "category": ["electronics"],
-    "tag": ["electronics"],
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
     "stock": 7,
     "image": [
       "/assets/img/product/electronics/7.jpg",
@@ -738,14 +837,18 @@
   {
     "id": "17",
     "sku": "asdf139",
-    "name": "Lorem ipsum bluetooth",
+    "name": "Panjabi | Product Code 101",
     "price": 32.5,
     "discount": 10,
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["electronics"],
-    "tag": ["electronics"],
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
     "stock": 6,
     "image": [
       "/assets/img/product/electronics/8.jpg",
@@ -760,14 +863,18 @@
   {
     "id": "18",
     "sku": "asdf140",
-    "name": "Lorem ipsum chair one",
+    "name": "Panjabi | Product Code 101",
     "price": 15.6,
     "discount": 0,
     "new": false,
     "rating": 4,
     "saleCount": 90,
-    "category": ["furniture"],
-    "tag": ["furniture"],
+    "category": [
+      "furniture"
+    ],
+    "tag": [
+      "furniture"
+    ],
     "stock": 15,
     "image": [
       "/assets/img/product/furnitures/1.jpg",
@@ -782,14 +889,18 @@
   {
     "id": "19",
     "sku": "asdf141",
-    "name": "Lorem ipsum chair two",
+    "name": "Panjabi | Product Code 101",
     "price": 10.6,
     "discount": 10,
     "new": true,
     "rating": 5,
     "saleCount": 190,
-    "category": ["furniture"],
-    "tag": ["furniture"],
+    "category": [
+      "furniture"
+    ],
+    "tag": [
+      "furniture"
+    ],
     "stock": 25,
     "image": [
       "/assets/img/product/furnitures/2.jpg",
@@ -804,14 +915,18 @@
   {
     "id": "20",
     "sku": "asdf142",
-    "name": "Lorem ipsum chair three",
+    "name": "Panjabi | Product Code 101",
     "price": 12.5,
     "discount": 20,
     "new": true,
     "rating": 3,
     "saleCount": 90,
-    "category": ["furniture"],
-    "tag": ["furniture"],
+    "category": [
+      "furniture"
+    ],
+    "tag": [
+      "furniture"
+    ],
     "stock": 20,
     "image": [
       "/assets/img/product/furnitures/3.jpg",
@@ -826,14 +941,18 @@
   {
     "id": "21",
     "sku": "asdf143",
-    "name": "Lorem ipsum sofa one",
+    "name": "Panjabi | Product Code 101",
     "price": 14.5,
     "discount": 30,
     "new": false,
     "rating": 4,
     "saleCount": 100,
-    "category": ["furniture"],
-    "tag": ["furniture"],
+    "category": [
+      "furniture"
+    ],
+    "tag": [
+      "furniture"
+    ],
     "stock": 40,
     "image": [
       "/assets/img/product/furnitures/4.jpg",
@@ -848,14 +967,18 @@
   {
     "id": "22",
     "sku": "asdf144",
-    "name": "Lorem ipsum sofa two",
+    "name": "Panjabi | Product Code 101",
     "price": 22.5,
     "discount": 10,
     "new": true,
     "rating": 5,
     "saleCount": 120,
-    "category": ["furniture"],
-    "tag": ["furniture"],
+    "category": [
+      "furniture"
+    ],
+    "tag": [
+      "furniture"
+    ],
     "stock": 45,
     "image": [
       "/assets/img/product/furnitures/5.jpg",
@@ -870,14 +993,18 @@
   {
     "id": "23",
     "sku": "asdf145",
-    "name": "Lorem ipsum sofa three",
+    "name": "Panjabi | Product Code 101",
     "price": 12.5,
     "discount": 0,
     "new": false,
     "rating": 4,
     "saleCount": 20,
-    "category": ["furniture"],
-    "tag": ["furniture"],
+    "category": [
+      "furniture"
+    ],
+    "tag": [
+      "furniture"
+    ],
     "stock": 5,
     "image": [
       "/assets/img/product/furnitures/6.jpg",
@@ -892,14 +1019,18 @@
   {
     "id": "24",
     "sku": "asdf146",
-    "name": "Lorem ipsum sofa four",
+    "name": "Panjabi | Product Code 101",
     "price": 22.5,
     "discount": 20,
     "new": true,
     "rating": 5,
     "saleCount": 25,
-    "category": ["furniture"],
-    "tag": ["furniture"],
+    "category": [
+      "furniture"
+    ],
+    "tag": [
+      "furniture"
+    ],
     "stock": 7,
     "image": [
       "/assets/img/product/furnitures/7.jpg",
@@ -914,14 +1045,18 @@
   {
     "id": "25",
     "sku": "asdf147",
-    "name": "Lorem ipsum sofa five",
+    "name": "Panjabi | Product Code 101",
     "price": 32.5,
     "discount": 10,
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["furniture"],
-    "tag": ["furniture"],
+    "category": [
+      "furniture"
+    ],
+    "tag": [
+      "furniture"
+    ],
     "stock": 6,
     "image": [
       "/assets/img/product/furnitures/8.jpg",
@@ -936,14 +1071,18 @@
   {
     "id": "26",
     "sku": "asdf148",
-    "name": "Lorem ipsum plant one",
+    "name": "Panjabi | Product Code 101",
     "price": 15.6,
     "discount": 0,
     "new": false,
     "rating": 4,
     "saleCount": 90,
-    "category": ["plant"],
-    "tag": ["plant"],
+    "category": [
+      "plant"
+    ],
+    "tag": [
+      "plant"
+    ],
     "stock": 15,
     "image": [
       "/assets/img/product/plants/1.jpg",
@@ -958,14 +1097,18 @@
   {
     "id": "27",
     "sku": "asdf149",
-    "name": "Lorem ipsum plant two",
+    "name": "Panjabi | Product Code 101",
     "price": 10.6,
     "discount": 10,
     "new": true,
     "rating": 5,
     "saleCount": 190,
-    "category": ["plant"],
-    "tag": ["plant"],
+    "category": [
+      "plant"
+    ],
+    "tag": [
+      "plant"
+    ],
     "stock": 25,
     "image": [
       "/assets/img/product/plants/2.jpg",
@@ -980,14 +1123,18 @@
   {
     "id": "28",
     "sku": "asdf150",
-    "name": "Lorem ipsum plant three",
+    "name": "Panjabi | Product Code 101",
     "price": 12.5,
     "discount": 20,
     "new": true,
     "rating": 3,
     "saleCount": 90,
-    "category": ["plant"],
-    "tag": ["plant"],
+    "category": [
+      "plant"
+    ],
+    "tag": [
+      "plant"
+    ],
     "stock": 20,
     "image": [
       "/assets/img/product/plants/3.jpg",
@@ -1002,14 +1149,18 @@
   {
     "id": "29",
     "sku": "asdf151",
-    "name": "Lorem ipsum plant four",
+    "name": "Panjabi | Product Code 101",
     "price": 14.5,
     "discount": 30,
     "new": false,
     "rating": 4,
     "saleCount": 100,
-    "category": ["plant"],
-    "tag": ["plant"],
+    "category": [
+      "plant"
+    ],
+    "tag": [
+      "plant"
+    ],
     "stock": 40,
     "image": [
       "/assets/img/product/plants/4.jpg",
@@ -1024,14 +1175,18 @@
   {
     "id": "30",
     "sku": "asdf152",
-    "name": "Lorem ipsum plant five",
+    "name": "Panjabi | Product Code 101",
     "price": 22.5,
     "discount": 10,
     "new": true,
     "rating": 5,
     "saleCount": 120,
-    "category": ["plant"],
-    "tag": ["plant"],
+    "category": [
+      "plant"
+    ],
+    "tag": [
+      "plant"
+    ],
     "stock": 45,
     "image": [
       "/assets/img/product/plants/5.jpg",
@@ -1046,14 +1201,18 @@
   {
     "id": "31",
     "sku": "asdf153",
-    "name": "Lorem ipsum plant six",
+    "name": "Panjabi | Product Code 101",
     "price": 12.5,
     "discount": 0,
     "new": false,
     "rating": 4,
     "saleCount": 20,
-    "category": ["plant"],
-    "tag": ["plant"],
+    "category": [
+      "plant"
+    ],
+    "tag": [
+      "plant"
+    ],
     "stock": 5,
     "image": [
       "/assets/img/product/plants/6.jpg",
@@ -1068,14 +1227,18 @@
   {
     "id": "32",
     "sku": "asdf154",
-    "name": "Lorem ipsum plant seven",
+    "name": "Panjabi | Product Code 101",
     "price": 22.5,
     "discount": 20,
     "new": true,
     "rating": 5,
     "saleCount": 25,
-    "category": ["plant"],
-    "tag": ["plant"],
+    "category": [
+      "plant"
+    ],
+    "tag": [
+      "plant"
+    ],
     "stock": 7,
     "image": [
       "/assets/img/product/plants/7.jpg",
@@ -1090,14 +1253,18 @@
   {
     "id": "33",
     "sku": "asdf155",
-    "name": "Lorem ipsum plant eight",
+    "name": "Panjabi | Product Code 101",
     "price": 32.5,
     "discount": 10,
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["plant"],
-    "tag": ["plant"],
+    "category": [
+      "plant"
+    ],
+    "tag": [
+      "plant"
+    ],
     "stock": 6,
     "image": [
       "/assets/img/product/plants/8.jpg",
@@ -1112,14 +1279,18 @@
   {
     "id": "34",
     "sku": "asdf156",
-    "name": "Lorem ipsum fruit one",
+    "name": "Panjabi | Product Code 101",
     "price": 15.6,
     "discount": 0,
     "new": false,
     "rating": 4,
     "saleCount": 90,
-    "category": ["organic food"],
-    "tag": ["organic food"],
+    "category": [
+      "organic food"
+    ],
+    "tag": [
+      "organic food"
+    ],
     "stock": 15,
     "image": [
       "/assets/img/product/fruits/1.jpg",
@@ -1134,14 +1305,18 @@
   {
     "id": "35",
     "sku": "asdf157",
-    "name": "Lorem ipsum fruit two",
+    "name": "Panjabi | Product Code 101",
     "price": 10.6,
     "discount": 10,
     "new": true,
     "rating": 5,
     "saleCount": 190,
-    "category": ["organic food"],
-    "tag": ["organic food"],
+    "category": [
+      "organic food"
+    ],
+    "tag": [
+      "organic food"
+    ],
     "stock": 25,
     "image": [
       "/assets/img/product/fruits/2.jpg",
@@ -1156,14 +1331,18 @@
   {
     "id": "36",
     "sku": "asdf158",
-    "name": "Lorem ipsum fruit three",
+    "name": "Panjabi | Product Code 101",
     "price": 12.5,
     "discount": 20,
     "new": true,
     "rating": 3,
     "saleCount": 90,
-    "category": ["organic food"],
-    "tag": ["organic food"],
+    "category": [
+      "organic food"
+    ],
+    "tag": [
+      "organic food"
+    ],
     "stock": 20,
     "image": [
       "/assets/img/product/fruits/3.jpg",
@@ -1178,14 +1357,18 @@
   {
     "id": "37",
     "sku": "asdf159",
-    "name": "Lorem ipsum fruit four",
+    "name": "Panjabi | Product Code 101",
     "price": 14.5,
     "discount": 30,
     "new": false,
     "rating": 4,
     "saleCount": 100,
-    "category": ["organic food"],
-    "tag": ["organic food"],
+    "category": [
+      "organic food"
+    ],
+    "tag": [
+      "organic food"
+    ],
     "stock": 40,
     "image": [
       "/assets/img/product/fruits/4.jpg",
@@ -1200,14 +1383,18 @@
   {
     "id": "38",
     "sku": "asdf160",
-    "name": "Lorem ipsum fruit five",
+    "name": "Panjabi | Product Code 101",
     "price": 22.5,
     "discount": 10,
     "new": true,
     "rating": 5,
     "saleCount": 120,
-    "category": ["organic food"],
-    "tag": ["organic food"],
+    "category": [
+      "organic food"
+    ],
+    "tag": [
+      "organic food"
+    ],
     "stock": 45,
     "image": [
       "/assets/img/product/fruits/5.jpg",
@@ -1222,14 +1409,18 @@
   {
     "id": "39",
     "sku": "asdf161",
-    "name": "Lorem ipsum fruit six",
+    "name": "Panjabi | Product Code 101",
     "price": 12.5,
     "discount": 0,
     "new": false,
     "rating": 4,
     "saleCount": 20,
-    "category": ["organic food"],
-    "tag": ["organic food"],
+    "category": [
+      "organic food"
+    ],
+    "tag": [
+      "organic food"
+    ],
     "stock": 5,
     "image": [
       "/assets/img/product/fruits/6.jpg",
@@ -1244,14 +1435,18 @@
   {
     "id": "40",
     "sku": "asdf162",
-    "name": "Lorem ipsum fruit seven",
+    "name": "Panjabi | Product Code 101",
     "price": 22.5,
     "discount": 20,
     "new": true,
     "rating": 5,
     "saleCount": 25,
-    "category": ["organic food"],
-    "tag": ["organic food"],
+    "category": [
+      "organic food"
+    ],
+    "tag": [
+      "organic food"
+    ],
     "stock": 7,
     "image": [
       "/assets/img/product/fruits/7.jpg",
@@ -1266,14 +1461,18 @@
   {
     "id": "41",
     "sku": "asdf163",
-    "name": "Lorem ipsum fruit eight",
+    "name": "Panjabi | Product Code 101",
     "price": 32.5,
     "discount": 10,
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["organic food"],
-    "tag": ["organic food"],
+    "category": [
+      "organic food"
+    ],
+    "tag": [
+      "organic food"
+    ],
     "stock": 6,
     "image": [
       "/assets/img/product/fruits/8.jpg",
@@ -1288,14 +1487,18 @@
   {
     "id": "42",
     "sku": "asdf164",
-    "name": "Lorem ipsum lamp",
+    "name": "Panjabi | Product Code 101",
     "price": 12.5,
     "discount": 20,
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["electronics"],
-    "tag": ["electronics"],
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
     "stock": 7,
     "image": [
       "/assets/img/product/electronics/9.jpg",
@@ -1310,14 +1513,18 @@
   {
     "id": "43",
     "sku": "asdf165",
-    "name": "Lorem ipsum headphone",
+    "name": "Panjabi | Product Code 101",
     "price": 16.5,
     "discount": 10,
     "new": false,
     "rating": 5,
     "saleCount": 5,
-    "category": ["electronics"],
-    "tag": ["electronics"],
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
     "stock": 6,
     "image": [
       "/assets/img/product/electronics/10.jpg",
@@ -1332,14 +1539,18 @@
   {
     "id": "44",
     "sku": "asdf166",
-    "name": "Lorem ipsum flower one",
+    "name": "Panjabi | Product Code 101",
     "price": 1.5,
     "discount": 20,
     "new": true,
     "rating": 4,
     "saleCount": 10,
-    "category": ["flower"],
-    "tag": ["flower"],
+    "category": [
+      "flower"
+    ],
+    "tag": [
+      "flower"
+    ],
     "stock": 6,
     "image": [
       "/assets/img/product/flowers/1.jpg",
@@ -1354,14 +1565,18 @@
   {
     "id": "45",
     "sku": "asdf167",
-    "name": "Lorem ipsum flower two",
+    "name": "Panjabi | Product Code 101",
     "price": 6.5,
     "discount": 30,
     "new": false,
     "rating": 5,
     "saleCount": 5,
-    "category": ["flower"],
-    "tag": ["flower"],
+    "category": [
+      "flower"
+    ],
+    "tag": [
+      "flower"
+    ],
     "stock": 7,
     "image": [
       "/assets/img/product/flowers/2.jpg",
@@ -1376,14 +1591,18 @@
   {
     "id": "46",
     "sku": "asdf168",
-    "name": "Lorem ipsum flower three",
+    "name": "Panjabi | Product Code 101",
     "price": 3.5,
     "discount": 5,
     "new": true,
     "rating": 4,
     "saleCount": 7,
-    "category": ["flower"],
-    "tag": ["flower"],
+    "category": [
+      "flower"
+    ],
+    "tag": [
+      "flower"
+    ],
     "stock": 10,
     "image": [
       "/assets/img/product/flowers/3.jpg",
@@ -1398,14 +1617,18 @@
   {
     "id": "47",
     "sku": "asdf169",
-    "name": "Lorem ipsum flower four",
+    "name": "Panjabi | Product Code 101",
     "price": 4.5,
     "discount": 20,
     "new": true,
     "rating": 5,
     "saleCount": 10,
-    "category": ["flower"],
-    "tag": ["flower"],
+    "category": [
+      "flower"
+    ],
+    "tag": [
+      "flower"
+    ],
     "stock": 6,
     "image": [
       "/assets/img/product/flowers/4.jpg",
@@ -1420,14 +1643,18 @@
   {
     "id": "48",
     "sku": "asdf170",
-    "name": "Lorem ipsum flower five",
+    "name": "Panjabi | Product Code 101",
     "price": 7.5,
     "discount": 30,
     "new": true,
     "rating": 3,
     "saleCount": 4,
-    "category": ["flower"],
-    "tag": ["flower"],
+    "category": [
+      "flower"
+    ],
+    "tag": [
+      "flower"
+    ],
     "stock": 7,
     "image": [
       "/assets/img/product/flowers/5.jpg",
@@ -1442,14 +1669,18 @@
   {
     "id": "49",
     "sku": "asdf171",
-    "name": "Lorem ipsum flower six",
+    "name": "Panjabi | Product Code 101",
     "price": 4.5,
     "discount": 10,
     "new": false,
     "rating": 5,
     "saleCount": 2,
-    "category": ["flower"],
-    "tag": ["flower"],
+    "category": [
+      "flower"
+    ],
+    "tag": [
+      "flower"
+    ],
     "stock": 10,
     "image": [
       "/assets/img/product/flowers/6.jpg",
@@ -1464,14 +1695,18 @@
   {
     "id": "50",
     "sku": "asdf172",
-    "name": "Lorem ipsum flower seven",
+    "name": "Panjabi | Product Code 101",
     "price": 3.5,
     "discount": 20,
     "new": true,
     "rating": 5,
     "saleCount": 5,
-    "category": ["flower"],
-    "tag": ["flower"],
+    "category": [
+      "flower"
+    ],
+    "tag": [
+      "flower"
+    ],
     "stock": 6,
     "image": [
       "/assets/img/product/flowers/7.jpg",
@@ -1486,14 +1721,18 @@
   {
     "id": "51",
     "sku": "asdf173",
-    "name": "Lorem ipsum flower eight",
+    "name": "Panjabi | Product Code 101",
     "price": 2.5,
     "discount": 30,
     "new": true,
     "rating": 5,
     "saleCount": 9,
-    "category": ["flower"],
-    "tag": ["flower"],
+    "category": [
+      "flower"
+    ],
+    "tag": [
+      "flower"
+    ],
     "stock": 10,
     "image": [
       "/assets/img/product/flowers/8.jpg",
@@ -1508,14 +1747,18 @@
   {
     "id": "52",
     "sku": "asdf174",
-    "name": "Lorem ipsum book one",
+    "name": "Panjabi | Product Code 101",
     "price": 6.5,
     "discount": 30,
     "new": true,
     "rating": 5,
     "saleCount": 10,
-    "category": ["book"],
-    "tag": ["book"],
+    "category": [
+      "book"
+    ],
+    "tag": [
+      "book"
+    ],
     "stock": 20,
     "image": [
       "/assets/img/product/books/1.jpg",
@@ -1530,14 +1773,18 @@
   {
     "id": "53",
     "sku": "asdf175",
-    "name": "Lorem ipsum book two",
+    "name": "Panjabi | Product Code 101",
     "price": 4.2,
     "discount": 0,
     "new": true,
     "rating": 5,
     "saleCount": 10,
-    "category": ["book"],
-    "tag": ["book"],
+    "category": [
+      "book"
+    ],
+    "tag": [
+      "book"
+    ],
     "stock": 20,
     "image": [
       "/assets/img/product/books/2.jpg",
@@ -1552,14 +1799,18 @@
   {
     "id": "54",
     "sku": "asdf176",
-    "name": "Lorem ipsum book three",
+    "name": "Panjabi | Product Code 101",
     "price": 6.6,
     "discount": 20,
     "new": true,
     "rating": 3,
     "saleCount": 11,
-    "category": ["book"],
-    "tag": ["book"],
+    "category": [
+      "book"
+    ],
+    "tag": [
+      "book"
+    ],
     "stock": 20,
     "image": [
       "/assets/img/product/books/3.jpg",
@@ -1574,14 +1825,18 @@
   {
     "id": "55",
     "sku": "asdf177",
-    "name": "Lorem ipsum book four",
+    "name": "Panjabi | Product Code 101",
     "price": 7.1,
     "discount": 40,
     "new": true,
     "rating": 4,
     "saleCount": 19,
-    "category": ["book"],
-    "tag": ["book"],
+    "category": [
+      "book"
+    ],
+    "tag": [
+      "book"
+    ],
     "stock": 40,
     "image": [
       "/assets/img/product/books/4.jpg",
@@ -1596,14 +1851,18 @@
   {
     "id": "56",
     "sku": "asdf178",
-    "name": "Lorem ipsum book five",
+    "name": "Panjabi | Product Code 101",
     "price": 8.6,
     "discount": 30,
     "new": false,
     "rating": 4,
     "saleCount": 12,
-    "category": ["book"],
-    "tag": ["book"],
+    "category": [
+      "book"
+    ],
+    "tag": [
+      "book"
+    ],
     "stock": 8,
     "image": [
       "/assets/img/product/books/5.jpg",
@@ -1618,14 +1877,18 @@
   {
     "id": "57",
     "sku": "asdf179",
-    "name": "Lorem ipsum book six",
+    "name": "Panjabi | Product Code 101",
     "price": 5.5,
     "discount": 10,
     "new": true,
     "rating": 4,
     "saleCount": 19,
-    "category": ["book"],
-    "tag": ["book"],
+    "category": [
+      "book"
+    ],
+    "tag": [
+      "book"
+    ],
     "stock": 20,
     "image": [
       "/assets/img/product/books/6.jpg",
@@ -1640,14 +1903,18 @@
   {
     "id": "58",
     "sku": "asdf180",
-    "name": "Lorem ipsum book seven",
+    "name": "Panjabi | Product Code 101",
     "price": 3.2,
     "discount": 20,
     "new": false,
     "rating": 2,
     "saleCount": 9,
-    "category": ["book"],
-    "tag": ["book"],
+    "category": [
+      "book"
+    ],
+    "tag": [
+      "book"
+    ],
     "stock": 11,
     "image": [
       "/assets/img/product/books/7.jpg",
@@ -1662,14 +1929,18 @@
   {
     "id": "59",
     "sku": "asdf181",
-    "name": "Lorem ipsum book eight",
+    "name": "Panjabi | Product Code 101",
     "price": 8.5,
     "discount": 5,
     "new": true,
     "rating": 3,
     "saleCount": 19,
-    "category": ["book"],
-    "tag": ["book"],
+    "category": [
+      "book"
+    ],
+    "tag": [
+      "book"
+    ],
     "stock": 30,
     "image": [
       "/assets/img/product/books/8.jpg",
@@ -1684,14 +1955,18 @@
   {
     "id": "60",
     "sku": "asdf182",
-    "name": "Lorem ipsum cosmetics one",
+    "name": "Panjabi | Product Code 101",
     "price": 3.5,
     "discount": 10,
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["cosmetics"],
-    "tag": ["cosmetics"],
+    "category": [
+      "cosmetics"
+    ],
+    "tag": [
+      "cosmetics"
+    ],
     "stock": 20,
     "image": [
       "/assets/img/product/cosmetics/1.jpg",
@@ -1706,14 +1981,18 @@
   {
     "id": "61",
     "sku": "asdf183",
-    "name": "Lorem ipsum cosmetics two",
+    "name": "Panjabi | Product Code 101",
     "price": 18.5,
     "discount": 15,
     "new": false,
     "rating": 5,
     "saleCount": 9,
-    "category": ["cosmetics"],
-    "tag": ["cosmetics"],
+    "category": [
+      "cosmetics"
+    ],
+    "tag": [
+      "cosmetics"
+    ],
     "stock": 20,
     "image": [
       "/assets/img/product/cosmetics/2.jpg",
@@ -1728,14 +2007,18 @@
   {
     "id": "62",
     "sku": "asdf184",
-    "name": "Lorem ipsum cosmetics three",
+    "name": "Panjabi | Product Code 101",
     "price": 4.2,
     "discount": 15,
     "new": true,
     "rating": 5,
     "saleCount": 29,
-    "category": ["cosmetics"],
-    "tag": ["cosmetics"],
+    "category": [
+      "cosmetics"
+    ],
+    "tag": [
+      "cosmetics"
+    ],
     "stock": 20,
     "image": [
       "/assets/img/product/cosmetics/3.jpg",
@@ -1750,14 +2033,18 @@
   {
     "id": "63",
     "sku": "asdf185",
-    "name": "Lorem ipsum cosmetics four",
+    "name": "Panjabi | Product Code 101",
     "price": 1.5,
     "discount": 0,
     "new": false,
     "rating": 4,
     "saleCount": 20,
-    "category": ["cosmetics"],
-    "tag": ["cosmetics"],
+    "category": [
+      "cosmetics"
+    ],
+    "tag": [
+      "cosmetics"
+    ],
     "stock": 10,
     "image": [
       "/assets/img/product/cosmetics/4.jpg",
@@ -1772,14 +2059,18 @@
   {
     "id": "64",
     "sku": "asdf186",
-    "name": "Lorem ipsum cosmetics five",
+    "name": "Panjabi | Product Code 101",
     "price": 6.3,
     "discount": 15,
     "new": true,
     "rating": 5,
     "saleCount": 20,
-    "category": ["cosmetics"],
-    "tag": ["cosmetics"],
+    "category": [
+      "cosmetics"
+    ],
+    "tag": [
+      "cosmetics"
+    ],
     "stock": 20,
     "image": [
       "/assets/img/product/cosmetics/5.jpg",
@@ -1794,14 +2085,18 @@
   {
     "id": "65",
     "sku": "asdf187",
-    "name": "Lorem ipsum cosmetics six",
+    "name": "Panjabi | Product Code 101",
     "price": 4.5,
     "discount": 20,
     "new": false,
     "rating": 2,
     "saleCount": 29,
-    "category": ["cosmetics"],
-    "tag": ["cosmetics"],
+    "category": [
+      "cosmetics"
+    ],
+    "tag": [
+      "cosmetics"
+    ],
     "stock": 20,
     "image": [
       "/assets/img/product/cosmetics/6.jpg",
@@ -1816,14 +2111,18 @@
   {
     "id": "66",
     "sku": "asdf188",
-    "name": "Lorem ipsum cosmetics seven",
+    "name": "Panjabi | Product Code 101",
     "price": 7.1,
     "discount": 45,
     "new": true,
     "rating": 4,
     "saleCount": 10,
-    "category": ["cosmetics"],
-    "tag": ["cosmetics"],
+    "category": [
+      "cosmetics"
+    ],
+    "tag": [
+      "cosmetics"
+    ],
     "stock": 20,
     "image": [
       "/assets/img/product/cosmetics/7.jpg",
@@ -1838,14 +2137,18 @@
   {
     "id": "67",
     "sku": "asdf189",
-    "name": "Lorem ipsum cosmetics eight",
+    "name": "Panjabi | Product Code 101",
     "price": 9.0,
     "discount": 10,
     "new": false,
     "rating": 4,
     "saleCount": 29,
-    "category": ["cosmetics"],
-    "tag": ["cosmetics"],
+    "category": [
+      "cosmetics"
+    ],
+    "tag": [
+      "cosmetics"
+    ],
     "stock": 20,
     "image": [
       "/assets/img/product/cosmetics/8.jpg",
@@ -1860,14 +2163,18 @@
   {
     "id": "68",
     "sku": "asdf190",
-    "name": "Lorem ipsum accessories one",
+    "name": "Panjabi | Product Code 101",
     "price": 3.1,
     "discount": 10,
     "new": true,
     "rating": 4,
     "saleCount": 29,
-    "category": ["accessories"],
-    "tag": ["accessories"],
+    "category": [
+      "accessories"
+    ],
+    "tag": [
+      "accessories"
+    ],
     "stock": 20,
     "image": [
       "/assets/img/product/accessories/1.jpg",
@@ -1882,14 +2189,18 @@
   {
     "id": "69",
     "sku": "asdf191",
-    "name": "Lorem ipsum accessories two",
+    "name": "Panjabi | Product Code 101",
     "price": 12.43,
     "discount": 20,
     "new": false,
     "rating": 5,
     "saleCount": 19,
-    "category": ["accessories"],
-    "tag": ["accessories"],
+    "category": [
+      "accessories"
+    ],
+    "tag": [
+      "accessories"
+    ],
     "stock": 30,
     "image": [
       "/assets/img/product/accessories/2.jpg",
@@ -1904,14 +2215,18 @@
   {
     "id": "70",
     "sku": "asdf192",
-    "name": "Lorem ipsum accessories three",
+    "name": "Panjabi | Product Code 101",
     "price": 12.5,
     "discount": 0,
     "new": true,
     "rating": 5,
     "saleCount": 30,
-    "category": ["accessories"],
-    "tag": ["accessories"],
+    "category": [
+      "accessories"
+    ],
+    "tag": [
+      "accessories"
+    ],
     "stock": 10,
     "image": [
       "/assets/img/product/accessories/3.jpg",
@@ -1926,14 +2241,18 @@
   {
     "id": "71",
     "sku": "asdf193",
-    "name": "Lorem ipsum accessories four",
+    "name": "Panjabi | Product Code 101",
     "price": 19.33,
     "discount": 20,
     "new": false,
     "rating": 5,
     "saleCount": 20,
-    "category": ["accessories"],
-    "tag": ["accessories"],
+    "category": [
+      "accessories"
+    ],
+    "tag": [
+      "accessories"
+    ],
     "stock": 30,
     "image": [
       "/assets/img/product/accessories/4.jpg",
@@ -1948,14 +2267,18 @@
   {
     "id": "72",
     "sku": "asdf194",
-    "name": "Lorem ipsum accessories five",
+    "name": "Panjabi | Product Code 101",
     "price": 12.35,
     "discount": 20,
     "new": true,
     "rating": 5,
     "saleCount": 20,
-    "category": ["accessories"],
-    "tag": ["accessories"],
+    "category": [
+      "accessories"
+    ],
+    "tag": [
+      "accessories"
+    ],
     "stock": 10,
     "image": [
       "/assets/img/product/accessories/5.jpg",
@@ -1970,14 +2293,18 @@
   {
     "id": "73",
     "sku": "asdf195",
-    "name": "Lorem ipsum accessories six",
+    "name": "Panjabi | Product Code 101",
     "price": 12.45,
     "discount": 20,
     "new": true,
     "rating": 5,
     "saleCount": 19,
-    "category": ["accessories"],
-    "tag": ["accessories"],
+    "category": [
+      "accessories"
+    ],
+    "tag": [
+      "accessories"
+    ],
     "stock": 30,
     "image": [
       "/assets/img/product/accessories/6.jpg",
@@ -1992,14 +2319,18 @@
   {
     "id": "74",
     "sku": "asdf196",
-    "name": "Lorem ipsum accessories seven",
+    "name": "Panjabi | Product Code 101",
     "price": 2.43,
     "discount": 10,
     "new": true,
     "rating": 5,
     "saleCount": 15,
-    "category": ["accessories"],
-    "tag": ["accessories"],
+    "category": [
+      "accessories"
+    ],
+    "tag": [
+      "accessories"
+    ],
     "stock": 10,
     "image": [
       "/assets/img/product/accessories/7.jpg",
@@ -2014,14 +2345,18 @@
   {
     "id": "75",
     "sku": "asdf197",
-    "name": "Lorem ipsum accessories eight",
+    "name": "Panjabi | Product Code 101",
     "price": 13.4,
     "discount": 30,
     "new": true,
     "rating": 5,
     "saleCount": 2,
-    "category": ["accessories"],
-    "tag": ["accessories"],
+    "category": [
+      "accessories"
+    ],
+    "tag": [
+      "accessories"
+    ],
     "stock": 10,
     "image": [
       "/assets/img/product/accessories/8.jpg",
@@ -2036,14 +2371,18 @@
   {
     "id": "76",
     "sku": "asdf198",
-    "name": "Lorem ipsum accessories nine",
+    "name": "Panjabi | Product Code 101",
     "price": 5.24,
     "discount": 30,
     "new": true,
     "rating": 5,
     "saleCount": 34,
-    "category": ["accessories"],
-    "tag": ["accessories"],
+    "category": [
+      "accessories"
+    ],
+    "tag": [
+      "accessories"
+    ],
     "stock": 10,
     "image": [
       "/assets/img/product/accessories/9.jpg",
@@ -2058,14 +2397,18 @@
   {
     "id": "77",
     "sku": "asdf199",
-    "name": "Lorem ipsum accessories ten",
+    "name": "Panjabi | Product Code 101",
     "price": 2.2,
     "discount": 0,
     "new": true,
     "rating": 5,
     "saleCount": 19,
-    "category": ["accessories"],
-    "tag": ["accessories"],
+    "category": [
+      "accessories"
+    ],
+    "tag": [
+      "accessories"
+    ],
     "stock": 30,
     "image": [
       "/assets/img/product/accessories/10.jpg",
@@ -2080,14 +2423,18 @@
   {
     "id": "78",
     "sku": "asdf200",
-    "name": "Lorem ipsum accessories eleven",
+    "name": "Panjabi | Product Code 101",
     "price": 12.65,
     "discount": 20,
     "new": true,
     "rating": 4,
     "saleCount": 20,
-    "category": ["accessories"],
-    "tag": ["accessories"],
+    "category": [
+      "accessories"
+    ],
+    "tag": [
+      "accessories"
+    ],
     "stock": 23,
     "image": [
       "/assets/img/product/accessories/11.jpg",
@@ -2102,14 +2449,18 @@
   {
     "id": "79",
     "sku": "asdf201",
-    "name": "Lorem ipsum accessories twelve",
+    "name": "Panjabi | Product Code 101",
     "price": 9.52,
     "discount": 0,
     "new": true,
     "rating": 5,
     "saleCount": 19,
-    "category": ["accessories"],
-    "tag": ["accessories"],
+    "category": [
+      "accessories"
+    ],
+    "tag": [
+      "accessories"
+    ],
     "stock": 10,
     "image": [
       "/assets/img/product/accessories/12.jpg",
@@ -2124,14 +2475,18 @@
   {
     "id": "80",
     "sku": "asdf202",
-    "name": "Lorem ipsum handmade one",
+    "name": "Panjabi | Product Code 101",
     "price": 19,
     "discount": 10,
     "new": true,
     "rating": 4,
     "saleCount": 19,
-    "category": ["handmade"],
-    "tag": ["handmade"],
+    "category": [
+      "handmade"
+    ],
+    "tag": [
+      "handmade"
+    ],
     "stock": 10,
     "image": [
       "/assets/img/product/handmade/1.jpg",
@@ -2146,14 +2501,18 @@
   {
     "id": "81",
     "sku": "asdf203",
-    "name": "Lorem ipsum handmade two",
+    "name": "Panjabi | Product Code 101",
     "price": 12,
     "discount": 50,
     "new": false,
     "rating": 4,
     "saleCount": 15,
-    "category": ["handmade"],
-    "tag": ["handmade"],
+    "category": [
+      "handmade"
+    ],
+    "tag": [
+      "handmade"
+    ],
     "stock": 7,
     "image": [
       "/assets/img/product/handmade/2.jpg",
@@ -2168,14 +2527,18 @@
   {
     "id": "82",
     "sku": "asdf204",
-    "name": "Lorem ipsum handmade three",
+    "name": "Panjabi | Product Code 101",
     "price": 5.52,
     "discount": 10,
     "new": true,
     "rating": 5,
     "saleCount": 12,
-    "category": ["handmade"],
-    "tag": ["handmade"],
+    "category": [
+      "handmade"
+    ],
+    "tag": [
+      "handmade"
+    ],
     "stock": 6,
     "image": [
       "/assets/img/product/handmade/3.jpg",
@@ -2190,14 +2553,18 @@
   {
     "id": "83",
     "sku": "asdf205",
-    "name": "Lorem ipsum handmade four",
+    "name": "Panjabi | Product Code 101",
     "price": 2.13,
     "discount": 0,
     "new": true,
     "rating": 3,
     "saleCount": 14,
-    "category": ["handmade"],
-    "tag": ["handmade"],
+    "category": [
+      "handmade"
+    ],
+    "tag": [
+      "handmade"
+    ],
     "stock": 12,
     "image": [
       "/assets/img/product/handmade/4.jpg",
@@ -2212,14 +2579,18 @@
   {
     "id": "84",
     "sku": "asdf206",
-    "name": "Lorem ipsum handmade five",
+    "name": "Panjabi | Product Code 101",
     "price": 12.9,
     "discount": 40,
     "new": false,
     "rating": 3,
     "saleCount": 13,
-    "category": ["handmade"],
-    "tag": ["handmade"],
+    "category": [
+      "handmade"
+    ],
+    "tag": [
+      "handmade"
+    ],
     "stock": 8,
     "image": [
       "/assets/img/product/handmade/5.jpg",
@@ -2234,14 +2605,18 @@
   {
     "id": "85",
     "sku": "asdf207",
-    "name": "Lorem ipsum handmade six",
+    "name": "Panjabi | Product Code 101",
     "price": 3.78,
     "discount": 20,
     "new": true,
     "rating": 5,
     "saleCount": 17,
-    "category": ["handmade"],
-    "tag": ["handmade"],
+    "category": [
+      "handmade"
+    ],
+    "tag": [
+      "handmade"
+    ],
     "stock": 5,
     "image": [
       "/assets/img/product/handmade/6.jpg",
@@ -2256,14 +2631,18 @@
   {
     "id": "86",
     "sku": "asdf208",
-    "name": "Lorem ipsum handmade seven",
+    "name": "Panjabi | Product Code 101",
     "price": 2.52,
     "discount": 10,
     "new": true,
     "rating": 4,
     "saleCount": 18,
-    "category": ["handmade"],
-    "tag": ["handmade"],
+    "category": [
+      "handmade"
+    ],
+    "tag": [
+      "handmade"
+    ],
     "stock": 5,
     "image": [
       "/assets/img/product/handmade/7.jpg",
@@ -2278,14 +2657,18 @@
   {
     "id": "87",
     "sku": "asdf209",
-    "name": "Lorem ipsum handmade eight",
+    "name": "Panjabi | Product Code 101",
     "price": 6.4,
     "discount": 0,
     "new": true,
     "rating": 5,
     "saleCount": 20,
-    "category": ["handmade"],
-    "tag": ["handmade"],
+    "category": [
+      "handmade"
+    ],
+    "tag": [
+      "handmade"
+    ],
     "stock": 10,
     "image": [
       "/assets/img/product/handmade/8.jpg",
@@ -2300,15 +2683,21 @@
   {
     "id": "88",
     "sku": "asdf210",
-    "name": "Lorem ipsum kids one",
+    "name": "Panjabi | Product Code 101",
     "price": 12.45,
     "discount": 10,
     "offerEnd": "October 5, 2024 12:11:00",
     "new": false,
     "rating": 4,
     "saleCount": 54,
-    "category": ["fashion", "kids"],
-    "tag": ["fashion", "kids"],
+    "category": [
+      "fashion",
+      "kids"
+    ],
+    "tag": [
+      "fashion",
+      "kids"
+    ],
     "variation": [
       {
         "color": "white",
@@ -2386,14 +2775,20 @@
   {
     "id": "89",
     "sku": "asdf211",
-    "name": "Lorem ipsum kids two",
+    "name": "Panjabi | Product Code 101",
     "price": 18.5,
     "discount": 15,
     "new": false,
     "rating": 3,
     "saleCount": 12,
-    "category": ["fashion", "kids"],
-    "tag": ["fashion", "kids"],
+    "category": [
+      "fashion",
+      "kids"
+    ],
+    "tag": [
+      "fashion",
+      "kids"
+    ],
     "variation": [
       {
         "color": "blue",
@@ -2468,19 +2863,24 @@
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
   },
-
   {
     "id": "90",
     "sku": "asdf212",
-    "name": "Lorem ipsum kids three",
+    "name": "Panjabi | Product Code 101",
     "price": 17.45,
     "discount": 40,
     "offerEnd": "October 2, 2024 12:11:00",
     "new": true,
     "rating": 5,
     "saleCount": 36,
-    "category": ["fashion", "kids"],
-    "tag": ["fashion", "kids"],
+    "category": [
+      "fashion",
+      "kids"
+    ],
+    "tag": [
+      "fashion",
+      "kids"
+    ],
     "variation": [
       {
         "color": "white",
@@ -2558,14 +2958,20 @@
   {
     "id": "91",
     "sku": "asdf213",
-    "name": "Lorem ipsum kids four",
+    "name": "Panjabi | Product Code 101",
     "price": 15.5,
     "discount": 0,
     "new": true,
     "rating": 4,
     "saleCount": 20,
-    "category": ["fashion", "kids"],
-    "tag": ["fashion", "kids"],
+    "category": [
+      "fashion",
+      "kids"
+    ],
+    "tag": [
+      "fashion",
+      "kids"
+    ],
     "variation": [
       {
         "color": "blue",
@@ -2643,14 +3049,20 @@
   {
     "id": "92",
     "sku": "asdf214",
-    "name": "Lorem ipsum kids five",
+    "name": "Panjabi | Product Code 101",
     "price": 25.5,
     "discount": 10,
     "new": true,
     "rating": 5,
     "saleCount": 25,
-    "category": ["fashion", "kids"],
-    "tag": ["fashion", "kids"],
+    "category": [
+      "fashion",
+      "kids"
+    ],
+    "tag": [
+      "fashion",
+      "kids"
+    ],
     "variation": [
       {
         "color": "blue",
@@ -2728,15 +3140,21 @@
   {
     "id": "93",
     "sku": "asdf215",
-    "name": "Lorem ipsum kids six",
+    "name": "Panjabi | Product Code 101",
     "price": 19.85,
     "discount": 0,
     "offerEnd": "October 17, 2024 12:11:00",
     "new": true,
     "rating": 5,
     "saleCount": 65,
-    "category": ["fashion", "kids"],
-    "tag": ["fashion", "kids"],
+    "category": [
+      "fashion",
+      "kids"
+    ],
+    "tag": [
+      "fashion",
+      "kids"
+    ],
     "variation": [
       {
         "color": "white",
@@ -2814,14 +3232,20 @@
   {
     "id": "94",
     "sku": "asdf216",
-    "name": "Lorem ipsum kids seven",
+    "name": "Panjabi | Product Code 101",
     "price": 55.5,
     "discount": 40,
     "new": true,
     "rating": 5,
     "saleCount": 55,
-    "category": ["fashion", "kids"],
-    "tag": ["fashion", "kids"],
+    "category": [
+      "fashion",
+      "kids"
+    ],
+    "tag": [
+      "fashion",
+      "kids"
+    ],
     "variation": [
       {
         "color": "blue",
@@ -2899,15 +3323,21 @@
   {
     "id": "95",
     "sku": "asdf217",
-    "name": "Lorem ipsum kids eight",
+    "name": "Panjabi | Product Code 101",
     "price": 29.85,
     "discount": 10,
     "offerEnd": "October 18, 2024 12:11:00",
     "new": false,
     "rating": 5,
     "saleCount": 83,
-    "category": ["fashion", "kids"],
-    "tag": ["fashion", "kids"],
+    "category": [
+      "fashion",
+      "kids"
+    ],
+    "tag": [
+      "fashion",
+      "kids"
+    ],
     "stock": 0,
     "image": [
       "/assets/img/product/fashion/30.jpg",
@@ -2922,14 +3352,18 @@
   {
     "id": "96",
     "sku": "asdf218",
-    "name": "Lorem ipsum auto part one",
+    "name": "Panjabi | Product Code 101",
     "price": 16.4,
     "discount": 10,
     "new": true,
     "rating": 5,
     "saleCount": 20,
-    "category": ["auto parts"],
-    "tag": ["auto parts"],
+    "category": [
+      "auto parts"
+    ],
+    "tag": [
+      "auto parts"
+    ],
     "stock": 15,
     "image": [
       "/assets/img/product/auto-parts/1.jpg",
@@ -2944,14 +3378,18 @@
   {
     "id": "97",
     "sku": "asdf219",
-    "name": "Lorem ipsum auto part two",
+    "name": "Panjabi | Product Code 101",
     "price": 26.5,
     "discount": 0,
     "new": false,
     "rating": 4,
     "saleCount": 10,
-    "category": ["auto parts"],
-    "tag": ["auto parts"],
+    "category": [
+      "auto parts"
+    ],
+    "tag": [
+      "auto parts"
+    ],
     "stock": 10,
     "image": [
       "/assets/img/product/auto-parts/2.jpg",
@@ -2966,14 +3404,18 @@
   {
     "id": "98",
     "sku": "asdf220",
-    "name": "Lorem ipsum auto part three",
+    "name": "Panjabi | Product Code 101",
     "price": 14.2,
     "discount": 30,
     "new": true,
     "rating": 3,
     "saleCount": 30,
-    "category": ["auto parts"],
-    "tag": ["auto parts"],
+    "category": [
+      "auto parts"
+    ],
+    "tag": [
+      "auto parts"
+    ],
     "stock": 13,
     "image": [
       "/assets/img/product/auto-parts/3.jpg",
@@ -2988,14 +3430,18 @@
   {
     "id": "99",
     "sku": "asdf221",
-    "name": "Lorem ipsum auto part four",
+    "name": "Panjabi | Product Code 101",
     "price": 6.4,
     "discount": 0,
     "new": false,
     "rating": 2,
     "saleCount": 10,
-    "category": ["auto parts"],
-    "tag": ["auto parts"],
+    "category": [
+      "auto parts"
+    ],
+    "tag": [
+      "auto parts"
+    ],
     "stock": 5,
     "image": [
       "/assets/img/product/auto-parts/4.jpg",
@@ -3010,14 +3456,18 @@
   {
     "id": "100",
     "sku": "asdf222",
-    "name": "Lorem ipsum cake one",
+    "name": "Panjabi | Product Code 101",
     "price": 6.4,
     "discount": 0,
     "new": false,
     "rating": 5,
     "saleCount": 10,
-    "category": ["cakes"],
-    "tag": ["cakes"],
+    "category": [
+      "cakes"
+    ],
+    "tag": [
+      "cakes"
+    ],
     "stock": 20,
     "image": [
       "/assets/img/product/cake-shop/1.jpg",
@@ -3032,14 +3482,18 @@
   {
     "id": "101",
     "sku": "asdf223",
-    "name": "Lorem ipsum cake two",
+    "name": "Panjabi | Product Code 101",
     "price": 3,
     "discount": 10,
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["cakes"],
-    "tag": ["cakes"],
+    "category": [
+      "cakes"
+    ],
+    "tag": [
+      "cakes"
+    ],
     "stock": 25,
     "image": [
       "/assets/img/product/cake-shop/2.jpg",
@@ -3054,14 +3508,18 @@
   {
     "id": "102",
     "sku": "asdf224",
-    "name": "Lorem ipsum cake three",
+    "name": "Panjabi | Product Code 101",
     "price": 2.4,
     "discount": 10,
     "new": false,
     "rating": 5,
     "saleCount": 30,
-    "category": ["cakes"],
-    "tag": ["cakes"],
+    "category": [
+      "cakes"
+    ],
+    "tag": [
+      "cakes"
+    ],
     "stock": 10,
     "image": [
       "/assets/img/product/cake-shop/3.jpg",
@@ -3076,14 +3534,18 @@
   {
     "id": "103",
     "sku": "asdf225",
-    "name": "Lorem ipsum cake four",
+    "name": "Panjabi | Product Code 101",
     "price": 3.5,
     "discount": 10,
     "new": true,
     "rating": 4,
     "saleCount": 14,
-    "category": ["cakes"],
-    "tag": ["cakes"],
+    "category": [
+      "cakes"
+    ],
+    "tag": [
+      "cakes"
+    ],
     "stock": 10,
     "image": [
       "/assets/img/product/cake-shop/4.jpg",
@@ -3098,14 +3560,18 @@
   {
     "id": "104",
     "sku": "asdf226",
-    "name": "Lorem ipsum cake five",
+    "name": "Panjabi | Product Code 101",
     "price": 4.2,
     "discount": 0,
     "new": false,
     "rating": 5,
     "saleCount": 30,
-    "category": ["cakes"],
-    "tag": ["cakes"],
+    "category": [
+      "cakes"
+    ],
+    "tag": [
+      "cakes"
+    ],
     "stock": 40,
     "image": [
       "/assets/img/product/cake-shop/5.jpg",
@@ -3120,14 +3586,18 @@
   {
     "id": "105",
     "sku": "asdf227",
-    "name": "Lorem ipsum cake six",
+    "name": "Panjabi | Product Code 101",
     "price": 5.7,
     "discount": 30,
     "new": true,
     "rating": 3,
     "saleCount": 30,
-    "category": ["cakes"],
-    "tag": ["cakes"],
+    "category": [
+      "cakes"
+    ],
+    "tag": [
+      "cakes"
+    ],
     "stock": 25,
     "image": [
       "/assets/img/product/cake-shop/6.jpg",
@@ -3142,14 +3612,18 @@
   {
     "id": "106",
     "sku": "asdf228",
-    "name": "Lorem ipsum cake seven",
+    "name": "Panjabi | Product Code 101",
     "price": 6.5,
     "discount": 10,
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["cakes"],
-    "tag": ["cakes"],
+    "category": [
+      "cakes"
+    ],
+    "tag": [
+      "cakes"
+    ],
     "stock": 40,
     "image": [
       "/assets/img/product/cake-shop/7.jpg",
@@ -3164,14 +3638,18 @@
   {
     "id": "107",
     "sku": "asdf229",
-    "name": "Lorem ipsum cake eight",
+    "name": "Panjabi | Product Code 101",
     "price": 4.5,
     "discount": 10,
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["cakes"],
-    "tag": ["cakes"],
+    "category": [
+      "cakes"
+    ],
+    "tag": [
+      "cakes"
+    ],
     "stock": 60,
     "image": [
       "/assets/img/product/cake-shop/8.jpg",
@@ -3186,14 +3664,18 @@
   {
     "id": "108",
     "sku": "asdf222",
-    "name": "Lorem ipsum cake one",
+    "name": "Panjabi | Product Code 101",
     "price": 6.4,
     "discount": 0,
     "new": false,
     "rating": 5,
     "saleCount": 10,
-    "category": ["cakes"],
-    "tag": ["cakes"],
+    "category": [
+      "cakes"
+    ],
+    "tag": [
+      "cakes"
+    ],
     "stock": 20,
     "image": [
       "/assets/img/product/cake-shop/1.jpg",
@@ -3208,14 +3690,18 @@
   {
     "id": "109",
     "sku": "asdf223",
-    "name": "Lorem ipsum cake two",
+    "name": "Panjabi | Product Code 101",
     "price": 3,
     "discount": 10,
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["cakes"],
-    "tag": ["cakes"],
+    "category": [
+      "cakes"
+    ],
+    "tag": [
+      "cakes"
+    ],
     "stock": 25,
     "image": [
       "/assets/img/product/cake-shop/2.jpg",
@@ -3230,14 +3716,18 @@
   {
     "id": "110",
     "sku": "asdf224",
-    "name": "Lorem ipsum cake three",
+    "name": "Panjabi | Product Code 101",
     "price": 2.4,
     "discount": 10,
     "new": false,
     "rating": 5,
     "saleCount": 30,
-    "category": ["cakes"],
-    "tag": ["cakes"],
+    "category": [
+      "cakes"
+    ],
+    "tag": [
+      "cakes"
+    ],
     "stock": 10,
     "image": [
       "/assets/img/product/cake-shop/3.jpg",
@@ -3252,14 +3742,18 @@
   {
     "id": "111",
     "sku": "asdf225",
-    "name": "Lorem ipsum cake four",
+    "name": "Panjabi | Product Code 101",
     "price": 3.5,
     "discount": 10,
     "new": true,
     "rating": 4,
     "saleCount": 14,
-    "category": ["cakes"],
-    "tag": ["cakes"],
+    "category": [
+      "cakes"
+    ],
+    "tag": [
+      "cakes"
+    ],
     "stock": 10,
     "image": [
       "/assets/img/product/cake-shop/4.jpg",
@@ -3274,14 +3768,18 @@
   {
     "id": "112",
     "sku": "asdf226",
-    "name": "Lorem ipsum cake five",
+    "name": "Panjabi | Product Code 101",
     "price": 4.2,
     "discount": 0,
     "new": false,
     "rating": 5,
     "saleCount": 30,
-    "category": ["cakes"],
-    "tag": ["cakes"],
+    "category": [
+      "cakes"
+    ],
+    "tag": [
+      "cakes"
+    ],
     "stock": 40,
     "image": [
       "/assets/img/product/cake-shop/5.jpg",
@@ -3296,14 +3794,18 @@
   {
     "id": "113",
     "sku": "asdf227",
-    "name": "Lorem ipsum cake six",
+    "name": "Panjabi | Product Code 101",
     "price": 5.7,
     "discount": 30,
     "new": true,
     "rating": 3,
     "saleCount": 30,
-    "category": ["cakes"],
-    "tag": ["cakes"],
+    "category": [
+      "cakes"
+    ],
+    "tag": [
+      "cakes"
+    ],
     "stock": 25,
     "image": [
       "/assets/img/product/cake-shop/6.jpg",
@@ -3318,14 +3820,18 @@
   {
     "id": "114",
     "sku": "asdf228",
-    "name": "Lorem ipsum cake seven",
+    "name": "Panjabi | Product Code 101",
     "price": 6.5,
     "discount": 10,
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["cakes"],
-    "tag": ["cakes"],
+    "category": [
+      "cakes"
+    ],
+    "tag": [
+      "cakes"
+    ],
     "stock": 40,
     "image": [
       "/assets/img/product/cake-shop/7.jpg",
@@ -3340,14 +3846,18 @@
   {
     "id": "115",
     "sku": "asdf229",
-    "name": "Lorem ipsum cake eight",
+    "name": "Panjabi | Product Code 101",
     "price": 4.5,
     "discount": 10,
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["cakes"],
-    "tag": ["cakes"],
+    "category": [
+      "cakes"
+    ],
+    "tag": [
+      "cakes"
+    ],
     "stock": 60,
     "image": [
       "/assets/img/product/cake-shop/8.jpg",
@@ -3362,14 +3872,18 @@
   {
     "id": "116",
     "sku": "asdf230",
-    "name": "Lorem ipsum pet food one",
+    "name": "Panjabi | Product Code 101",
     "price": 6.4,
     "discount": 0,
     "new": false,
     "rating": 5,
     "saleCount": 10,
-    "category": ["pet food"],
-    "tag": ["pet food"],
+    "category": [
+      "pet food"
+    ],
+    "tag": [
+      "pet food"
+    ],
     "stock": 20,
     "image": [
       "/assets/img/product/pet-food/1.jpg",
@@ -3384,14 +3898,18 @@
   {
     "id": "117",
     "sku": "asdf231",
-    "name": "Lorem ipsum pet food two",
+    "name": "Panjabi | Product Code 101",
     "price": 3,
     "discount": 10,
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["pet food"],
-    "tag": ["pet food"],
+    "category": [
+      "pet food"
+    ],
+    "tag": [
+      "pet food"
+    ],
     "stock": 25,
     "image": [
       "/assets/img/product/pet-food/2.jpg",
@@ -3406,14 +3924,18 @@
   {
     "id": "118",
     "sku": "asdf232",
-    "name": "Lorem ipsum pet food three",
+    "name": "Panjabi | Product Code 101",
     "price": 2.4,
     "discount": 10,
     "new": false,
     "rating": 5,
     "saleCount": 30,
-    "category": ["pet food"],
-    "tag": ["pet food"],
+    "category": [
+      "pet food"
+    ],
+    "tag": [
+      "pet food"
+    ],
     "stock": 10,
     "image": [
       "/assets/img/product/pet-food/3.jpg",
@@ -3428,14 +3950,18 @@
   {
     "id": "119",
     "sku": "asdf233",
-    "name": "Lorem ipsum pet food four",
+    "name": "Panjabi | Product Code 101",
     "price": 3.5,
     "discount": 10,
     "new": true,
     "rating": 4,
     "saleCount": 14,
-    "category": ["pet food"],
-    "tag": ["pet food"],
+    "category": [
+      "pet food"
+    ],
+    "tag": [
+      "pet food"
+    ],
     "stock": 10,
     "image": [
       "/assets/img/product/pet-food/4.jpg",
@@ -3450,14 +3976,18 @@
   {
     "id": "120",
     "sku": "asdf234",
-    "name": "Lorem ipsum pet food five",
+    "name": "Panjabi | Product Code 101",
     "price": 4.2,
     "discount": 0,
     "new": false,
     "rating": 5,
     "saleCount": 30,
-    "category": ["pet food"],
-    "tag": ["pet food"],
+    "category": [
+      "pet food"
+    ],
+    "tag": [
+      "pet food"
+    ],
     "stock": 40,
     "image": [
       "/assets/img/product/pet-food/5.jpg",
@@ -3472,14 +4002,18 @@
   {
     "id": "121",
     "sku": "asdf235",
-    "name": "Lorem ipsum pet food six",
+    "name": "Panjabi | Product Code 101",
     "price": 5.7,
     "discount": 30,
     "new": true,
     "rating": 3,
     "saleCount": 30,
-    "category": ["pet food"],
-    "tag": ["pet food"],
+    "category": [
+      "pet food"
+    ],
+    "tag": [
+      "pet food"
+    ],
     "stock": 25,
     "image": [
       "/assets/img/product/pet-food/6.jpg",
@@ -3494,14 +4028,18 @@
   {
     "id": "122",
     "sku": "asdf236",
-    "name": "Lorem ipsum pet food seven",
+    "name": "Panjabi | Product Code 101",
     "price": 6.5,
     "discount": 10,
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["pet food"],
-    "tag": ["pet food"],
+    "category": [
+      "pet food"
+    ],
+    "tag": [
+      "pet food"
+    ],
     "stock": 40,
     "image": [
       "/assets/img/product/pet-food/7.jpg",
@@ -3516,14 +4054,18 @@
   {
     "id": "123",
     "sku": "asdf237",
-    "name": "Lorem ipsum pet food eight",
+    "name": "Panjabi | Product Code 101",
     "price": 4.5,
     "discount": 10,
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["pet food"],
-    "tag": ["pet food"],
+    "category": [
+      "pet food"
+    ],
+    "tag": [
+      "pet food"
+    ],
     "stock": 60,
     "image": [
       "/assets/img/product/pet-food/8.jpg",
@@ -3538,14 +4080,18 @@
   {
     "id": "124",
     "sku": "asdf238",
-    "name": "Lorem ipsum medical one",
+    "name": "Panjabi | Product Code 101",
     "price": 6.4,
     "discount": 0,
     "new": false,
     "rating": 5,
     "saleCount": 10,
-    "category": ["medical"],
-    "tag": ["medical"],
+    "category": [
+      "medical"
+    ],
+    "tag": [
+      "medical"
+    ],
     "stock": 20,
     "image": [
       "/assets/img/product/medical/1.jpg",
@@ -3560,14 +4106,18 @@
   {
     "id": "125",
     "sku": "asdf239",
-    "name": "Lorem ipsum medical two",
+    "name": "Panjabi | Product Code 101",
     "price": 3,
     "discount": 10,
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["medical"],
-    "tag": ["medical"],
+    "category": [
+      "medical"
+    ],
+    "tag": [
+      "medical"
+    ],
     "stock": 25,
     "image": [
       "/assets/img/product/medical/2.jpg",
@@ -3582,14 +4132,18 @@
   {
     "id": "126",
     "sku": "asdf240",
-    "name": "Lorem ipsum medical three",
+    "name": "Panjabi | Product Code 101",
     "price": 2.4,
     "discount": 10,
     "new": false,
     "rating": 5,
     "saleCount": 30,
-    "category": ["medical"],
-    "tag": ["medical"],
+    "category": [
+      "medical"
+    ],
+    "tag": [
+      "medical"
+    ],
     "stock": 10,
     "image": [
       "/assets/img/product/medical/3.jpg",
@@ -3604,14 +4158,18 @@
   {
     "id": "127",
     "sku": "asdf241",
-    "name": "Lorem ipsum medical four",
+    "name": "Panjabi | Product Code 101",
     "price": 3.5,
     "discount": 10,
     "new": true,
     "rating": 4,
     "saleCount": 14,
-    "category": ["medical"],
-    "tag": ["medical"],
+    "category": [
+      "medical"
+    ],
+    "tag": [
+      "medical"
+    ],
     "stock": 10,
     "image": [
       "/assets/img/product/medical/4.jpg",
@@ -3626,14 +4184,18 @@
   {
     "id": "128",
     "sku": "asdf242",
-    "name": "Lorem ipsum medical five",
+    "name": "Panjabi | Product Code 101",
     "price": 4.2,
     "discount": 0,
     "new": false,
     "rating": 5,
     "saleCount": 30,
-    "category": ["medical"],
-    "tag": ["medical"],
+    "category": [
+      "medical"
+    ],
+    "tag": [
+      "medical"
+    ],
     "stock": 40,
     "image": [
       "/assets/img/product/medical/5.jpg",
@@ -3648,14 +4210,18 @@
   {
     "id": "129",
     "sku": "asdf243",
-    "name": "Lorem ipsum medical six",
+    "name": "Panjabi | Product Code 101",
     "price": 5.7,
     "discount": 30,
     "new": true,
     "rating": 3,
     "saleCount": 30,
-    "category": ["medical"],
-    "tag": ["medical"],
+    "category": [
+      "medical"
+    ],
+    "tag": [
+      "medical"
+    ],
     "stock": 25,
     "image": [
       "/assets/img/product/medical/6.jpg",
@@ -3670,14 +4236,18 @@
   {
     "id": "130",
     "sku": "asdf244",
-    "name": "Lorem ipsum medical seven",
+    "name": "Panjabi | Product Code 101",
     "price": 6.5,
     "discount": 10,
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["medical"],
-    "tag": ["medical"],
+    "category": [
+      "medical"
+    ],
+    "tag": [
+      "medical"
+    ],
     "stock": 40,
     "image": [
       "/assets/img/product/medical/7.jpg",
@@ -3692,14 +4262,18 @@
   {
     "id": "131",
     "sku": "asdf245",
-    "name": "Lorem ipsum medical eight",
+    "name": "Panjabi | Product Code 101",
     "price": 4.5,
     "discount": 10,
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["medical"],
-    "tag": ["medical"],
+    "category": [
+      "medical"
+    ],
+    "tag": [
+      "medical"
+    ],
     "stock": 60,
     "image": [
       "/assets/img/product/medical/8.jpg",
@@ -3714,14 +4288,18 @@
   {
     "id": "132",
     "sku": "asdf246",
-    "name": "Lorem ipsum black one",
+    "name": "Panjabi | Product Code 101",
     "price": 6.4,
     "discount": 0,
     "new": false,
     "rating": 5,
     "saleCount": 10,
-    "category": ["black friday"],
-    "tag": ["black friday"],
+    "category": [
+      "black friday"
+    ],
+    "tag": [
+      "black friday"
+    ],
     "stock": 20,
     "image": [
       "/assets/img/product/black-friday/1.jpg",
@@ -3736,14 +4314,18 @@
   {
     "id": "133",
     "sku": "asdf247",
-    "name": "Lorem ipsum black two",
+    "name": "Panjabi | Product Code 101",
     "price": 3,
     "discount": 10,
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["black friday"],
-    "tag": ["black friday"],
+    "category": [
+      "black friday"
+    ],
+    "tag": [
+      "black friday"
+    ],
     "stock": 25,
     "image": [
       "/assets/img/product/black-friday/2.jpg",
@@ -3758,14 +4340,18 @@
   {
     "id": "134",
     "sku": "asdf248",
-    "name": "Lorem ipsum black three",
+    "name": "Panjabi | Product Code 101",
     "price": 2.4,
     "discount": 10,
     "new": false,
     "rating": 5,
     "saleCount": 30,
-    "category": ["black friday"],
-    "tag": ["black friday"],
+    "category": [
+      "black friday"
+    ],
+    "tag": [
+      "black friday"
+    ],
     "stock": 10,
     "image": [
       "/assets/img/product/black-friday/3.jpg",
@@ -3780,14 +4366,18 @@
   {
     "id": "135",
     "sku": "asdf249",
-    "name": "Lorem ipsum black four",
+    "name": "Panjabi | Product Code 101",
     "price": 3.5,
     "discount": 10,
     "new": true,
     "rating": 4,
     "saleCount": 14,
-    "category": ["black friday"],
-    "tag": ["black friday"],
+    "category": [
+      "black friday"
+    ],
+    "tag": [
+      "black friday"
+    ],
     "stock": 10,
     "image": [
       "/assets/img/product/black-friday/4.jpg",
@@ -3802,14 +4392,18 @@
   {
     "id": "136",
     "sku": "asdf250",
-    "name": "Lorem ipsum black five",
+    "name": "Panjabi | Product Code 101",
     "price": 4.2,
     "discount": 0,
     "new": false,
     "rating": 5,
     "saleCount": 30,
-    "category": ["black friday"],
-    "tag": ["black friday"],
+    "category": [
+      "black friday"
+    ],
+    "tag": [
+      "black friday"
+    ],
     "stock": 40,
     "image": [
       "/assets/img/product/black-friday/5.jpg",
@@ -3824,14 +4418,18 @@
   {
     "id": "137",
     "sku": "asdf251",
-    "name": "Lorem ipsum black six",
+    "name": "Panjabi | Product Code 101",
     "price": 5.7,
     "discount": 30,
     "new": true,
     "rating": 3,
     "saleCount": 30,
-    "category": ["black friday"],
-    "tag": ["black friday"],
+    "category": [
+      "black friday"
+    ],
+    "tag": [
+      "black friday"
+    ],
     "stock": 25,
     "image": [
       "/assets/img/product/black-friday/6.jpg",
@@ -3846,14 +4444,18 @@
   {
     "id": "138",
     "sku": "asdf252",
-    "name": "Lorem ipsum black seven",
+    "name": "Panjabi | Product Code 101",
     "price": 6.5,
     "discount": 10,
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["black friday"],
-    "tag": ["black friday"],
+    "category": [
+      "black friday"
+    ],
+    "tag": [
+      "black friday"
+    ],
     "stock": 40,
     "image": [
       "/assets/img/product/black-friday/7.jpg",
@@ -3868,14 +4470,18 @@
   {
     "id": "139",
     "sku": "asdf253",
-    "name": "Lorem ipsum black eight",
+    "name": "Panjabi | Product Code 101",
     "price": 4.5,
     "discount": 10,
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["black friday"],
-    "tag": ["black friday"],
+    "category": [
+      "black friday"
+    ],
+    "tag": [
+      "black friday"
+    ],
     "stock": 60,
     "image": [
       "/assets/img/product/black-friday/8.jpg",
@@ -3890,14 +4496,18 @@
   {
     "id": "140",
     "sku": "asdf249",
-    "name": "Lorem ipsum christmas one",
+    "name": "Panjabi | Product Code 101",
     "price": 3.5,
     "discount": 10,
     "new": true,
     "rating": 4,
     "saleCount": 14,
-    "category": ["christmas"],
-    "tag": ["christmas"],
+    "category": [
+      "christmas"
+    ],
+    "tag": [
+      "christmas"
+    ],
     "stock": 10,
     "image": [
       "/assets/img/product/christmas/1.jpg",
@@ -3912,14 +4522,18 @@
   {
     "id": "141",
     "sku": "asdf250",
-    "name": "Lorem ipsum christmas two",
+    "name": "Panjabi | Product Code 101",
     "price": 4.2,
     "discount": 0,
     "new": false,
     "rating": 5,
     "saleCount": 30,
-    "category": ["christmas"],
-    "tag": ["christmas"],
+    "category": [
+      "christmas"
+    ],
+    "tag": [
+      "christmas"
+    ],
     "stock": 40,
     "image": [
       "/assets/img/product/christmas/2.jpg",
@@ -3934,14 +4548,18 @@
   {
     "id": "142",
     "sku": "asdf251",
-    "name": "Lorem ipsum christmas three",
+    "name": "Panjabi | Product Code 101",
     "price": 5.7,
     "discount": 30,
     "new": true,
     "rating": 3,
     "saleCount": 30,
-    "category": ["christmas"],
-    "tag": ["christmas"],
+    "category": [
+      "christmas"
+    ],
+    "tag": [
+      "christmas"
+    ],
     "stock": 25,
     "image": [
       "/assets/img/product/christmas/3.jpg",
@@ -3956,14 +4574,18 @@
   {
     "id": "143",
     "sku": "asdf252",
-    "name": "Lorem ipsum christmas four",
+    "name": "Panjabi | Product Code 101",
     "price": 6.5,
     "discount": 10,
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["christmas"],
-    "tag": ["christmas"],
+    "category": [
+      "christmas"
+    ],
+    "tag": [
+      "christmas"
+    ],
     "stock": 40,
     "image": [
       "/assets/img/product/christmas/4.jpg",
@@ -3978,14 +4600,18 @@
   {
     "id": "144",
     "sku": "asdf253",
-    "name": "Lorem ipsum christmas five",
+    "name": "Panjabi | Product Code 101",
     "price": 4.5,
     "discount": 10,
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["christmas"],
-    "tag": ["christmas"],
+    "category": [
+      "christmas"
+    ],
+    "tag": [
+      "christmas"
+    ],
     "stock": 60,
     "image": [
       "/assets/img/product/christmas/5.jpg",
