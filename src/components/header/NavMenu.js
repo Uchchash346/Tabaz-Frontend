@@ -20,18 +20,18 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
             </Link>
           </li>
           <li>
-            <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
+            <Link to={process.env.PUBLIC_URL + "/shop"}>
               {" "}
               {t("shop")}
-              {sidebarMenu ? (
+              {/* {sidebarMenu ? (
                 <span>
                   <i className="fa fa-angle-right"></i>
                 </span>
               ) : (
                 <i className="fa fa-angle-down" />
-              )}
+              )} */}
             </Link>
-            <ul className="mega-menu">
+            {/* <ul className="mega-menu">
               <li>
                 <ul>
                   <li className="mega-menu-title">
@@ -159,15 +159,25 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
                   </li>
                 </ul>
               </li>
-            </ul>
+            </ul> */}
           </li>
           <li>
             <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
-              {t("collection")}
+              {t("Winter 23")}
             </Link>
           </li>
           <li>
-            <Link to={process.env.PUBLIC_URL + "/"}>
+            <Link to={process.env.PUBLIC_URL + "/blogs"}>
+              {t("Blogs")}
+            </Link>
+          </li>
+          <li>
+            <Link to={process.env.PUBLIC_URL + "/about"}>
+              {t("about_us")}
+            </Link>
+          </li>
+          {/* <li> */}
+            {/* <Link to={process.env.PUBLIC_URL + "/"}>
               {t("pages")}
               {sidebarMenu ? (
                 <span>
@@ -176,8 +186,8 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
               ) : (
                 <i className="fa fa-angle-down" />
               )}
-            </Link>
-            <ul className="submenu">
+            </Link> */}
+            {/* <ul className="submenu">
               <li>
                 <Link to={process.env.PUBLIC_URL + "/cart"}>
                   {t("cart")}
@@ -193,11 +203,11 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
                   {t("wishlist")}
                 </Link>
               </li>
-              {/* <li>
+              <li>
                 <Link to={process.env.PUBLIC_URL + "/compare"}>
                   {t("compare")}
                 </Link>
-              </li> */}
+              </li>
               <li>
                 <Link to={process.env.PUBLIC_URL + "/my-account"}>
                   {t("my_account")}
@@ -223,13 +233,13 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
                   {t("404_page")}
                 </Link>
               </li>
-            </ul>
-          </li>
-          <li>
+            </ul> */}
+          {/* </li> */}
+          {/* <li>
             <Link to={process.env.PUBLIC_URL + "/blogs"}>
               {t("Blogs")}
-            </Link>
-            {/* <Link to={process.env.PUBLIC_URL + "/blogs"}>
+            </Link> */}
+          {/* <Link to={process.env.PUBLIC_URL + "/blogs"}>
               {t("blog")}
               {sidebarMenu ? (
                 <span>
@@ -261,10 +271,15 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
                 </Link>
               </li>
             </ul> */}
-          </li>
+          {/* </li> */}
           <li>
             <Link to={process.env.PUBLIC_URL + "/contact"}>
               {t("contact_us")}
+            </Link>
+          </li>
+          <li>
+            <Link to={process.env.PUBLIC_URL + "/checkout"}>
+              {t("checkout")}
             </Link>
           </li>
         </ul>
