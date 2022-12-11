@@ -26,7 +26,7 @@ const Cart = () => {
       />
 
       <LayoutOne headerTop="visible">
-        {/* breadcrumb */}
+        {/* breadcrumb */} 
         <Breadcrumb 
           pages={[
             {label: "Home", path: process.env.PUBLIC_URL + "/" },

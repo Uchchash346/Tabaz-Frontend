@@ -162,13 +162,18 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
             </ul> */}
           </li>
           <li>
-            <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
+            <Link to={process.env.PUBLIC_URL + "/men"}>
+              {t("Men")}
+            </Link>
+          </li>
+          <li>
+            <Link to={process.env.PUBLIC_URL + "/shop"}>
               {t("Winter 23")}
             </Link>
           </li>
           <li>
             <Link to={process.env.PUBLIC_URL + "/blogs"}>
-              {t("Blogs")}
+              {t("Blog")}
             </Link>
           </li>
           <li>
@@ -277,11 +282,11 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
               {t("contact_us")}
             </Link>
           </li>
-          <li>
+          {/* <li>
             <Link to={process.env.PUBLIC_URL + "/checkout"}>
               {t("checkout")}
             </Link>
-          </li>
+          </li> */}
         </ul>
       </nav>
     </div>

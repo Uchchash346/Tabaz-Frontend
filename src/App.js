@@ -99,6 +99,7 @@ const LoginRegister = lazy(() => import("./pages/other/LoginRegister"));
 const Returns = lazy(() => import("./pages/other/Returns"));
 const RefundPolicy = lazy(() => import("./pages/other/RefundPolicy"));
 const SizeGuide = lazy(() => import("./pages/other/SizeGuide"));
+const Men = lazy(() => import("./pages/men/Men"));
 
 const Cart = lazy(() => import("./pages/other/Cart"));
 const Wishlist = lazy(() => import("./pages/other/Wishlist"));
@@ -365,6 +366,11 @@ const App = () => {
                 path={process.env.PUBLIC_URL + "/blog-details-standard"}
                 element={<BlogDetailsStandard/>}
               />  */}
+              
+              <Route
+                path={process.env.PUBLIC_URL + "/men"}
+                element={<Men/>}
+              />
 
               {/* Other pages */}
               <Route
