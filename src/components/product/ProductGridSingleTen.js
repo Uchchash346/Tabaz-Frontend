@@ -100,7 +100,7 @@ const ProductGridSingleTen = ({
                 <i className="fa fa-eye"></i>
               </button>
 
-              <button
+              {/* <button
                 className={compareItem !== undefined ? "active" : ""}
                 disabled={compareItem !== undefined}
                 title={
@@ -111,8 +111,8 @@ const ProductGridSingleTen = ({
                 onClick={() => dispatch(addToCompare(product))}
               >
                 <i className="fa fa-retweet"></i>
-              </button>
-              <button
+              </button> */}
+              <button 
                 className={wishlistItem !== undefined ? "active" : ""}
                 disabled={wishlistItem !== undefined}
                 title={

@@ -11,7 +11,7 @@ import { deleteFromCompare } from "../../store/slices/compare-slice";
 
 const Compare = () => {
   const dispatch = useDispatch();
-  let { pathname } = useLocation();
+  let { pathname } = useLocation(); 
 
   const currency = useSelector((state) => state.currency);
   const { compareItems } = useSelector((state) => state.compare);

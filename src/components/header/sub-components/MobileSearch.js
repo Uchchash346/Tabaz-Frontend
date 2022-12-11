@@ -5,7 +5,7 @@ const MobileSearch = () => {
         <input type="search" placeholder="Search ..." />
         <button type="submit">
           <i className="fa fa-search" />
-        </button>
+        </button> 
       </form>
     </div>
   );

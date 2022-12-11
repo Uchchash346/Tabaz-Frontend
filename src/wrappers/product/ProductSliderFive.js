@@ -36,11 +36,11 @@ const ProductSliderFive = ({
   const currency = useSelector((state) => state.currency);
   const { cartItems } = useSelector((state) => state.cart);
   const { wishlistItems } = useSelector((state) => state.wishlist);
-  const { compareItems } = useSelector((state) => state.compare);
+  // const { compareItems } = useSelector((state) => state.compare);
   const prods = getProducts(products, category, type, 6)
 
   if(!prods?.length) return <p>No Products Found</p>
-
+ 
   return (
     <div className={clsx("related-product-area", spaceBottomClass)}>
       <Swiper options={settings}>
@@ -59,11 +59,11 @@ const ProductSliderFive = ({
                   (wishlistItem) => wishlistItem.id === product.id
                 )
               }
-              compareItem={
-                compareItems.find(
-                  (compareItem) => compareItem.id === product.id
-                )
-              }
+              // compareItem={
+              //   compareItems.find(
+              //     (compareItem) => compareItem.id === product.id
+              //   )
+              // }
             />
           </SwiperSlide>
         ))}

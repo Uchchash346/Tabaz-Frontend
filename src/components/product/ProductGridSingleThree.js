@@ -102,7 +102,7 @@ const ProductGridSingleThree = ({
               <i className="fa fa-eye"></i>
             </button>
 
-            <button
+            {/* <button
               className={compareItem !== undefined ? "active" : ""}
               disabled={compareItem !== undefined}
               title={
@@ -113,9 +113,9 @@ const ProductGridSingleThree = ({
               onClick={() => dispatch(addToCompare(product))}
             >
               <i className="fa fa-retweet"></i>
-            </button>
+            </button> */}
           </div>
-        </div>
+        </div> 
         <div className="product-content-2">
           <div className="title-price-wrap-2">
             <h3>
