@@ -32,7 +32,7 @@ const TabProductNine = ({
             </Nav.Item>
             <Nav.Item>
               <Nav.Link eventKey="women">
-                <h4>Women</h4>
+                <h4>Winter 23</h4>
               </Nav.Link>
             </Nav.Item>
             <Nav.Item>

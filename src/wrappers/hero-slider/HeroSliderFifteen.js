@@ -18,7 +18,7 @@ const params = {
 
 const HeroSliderFifteen = () => {
   return (
-    <div className="slider-area">
+    <div className="slider-area"> 
       <div className="slider-active nav-style-1">
         {sliderData && (
           <Swiper options={params}>
