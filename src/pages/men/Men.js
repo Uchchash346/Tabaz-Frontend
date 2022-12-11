@@ -1,9 +1,9 @@
 import React from 'react';
 import { Fragment } from 'react';
-import { Breadcrumb } from 'react-bootstrap';
 import { useLocation } from "react-router-dom";
 import SEO from '../../components/seo';
 import LayoutOne from '../../layouts/LayoutOne';
+import Breadcrumb from '../../wrappers/breadcrumb/Breadcrumb';
 
 const Men = () => {
     let { pathname } = useLocation();
@@ -14,10 +14,10 @@ const Men = () => {
                 description="Men cloths of Tavaas"
             />
             <LayoutOne>
-                {/* breadcrumb */}
+                {/* breadcrumb */} 
                 <Breadcrumb
                     pages={[
-                        { label: "Home", path: process.env.PUBLIC_URL + "/men" },
+                        { label: "Home", path: process.env.PUBLIC_URL + "/" },
                         { label: "Men", path: process.env.PUBLIC_URL + pathname }
                     ]}
                 />
