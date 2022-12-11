@@ -5,19 +5,19 @@ import clsx from "clsx";
 
 const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
   const { t } = useTranslation();
-  
+
   return (
     <div
       className={clsx(sidebarMenu
-          ? "sidebar-menu"
-          : `main-menu ${menuWhiteClass ? menuWhiteClass : ""}`)}
+        ? "sidebar-menu"
+        : `main-menu ${menuWhiteClass ? menuWhiteClass : ""}`)}
     >
       <nav>
         <ul>
           <li>
-          <Link to={process.env.PUBLIC_URL + "/"}>
-                      {t("home_fashion_seven")}
-                    </Link>
+            <Link to={process.env.PUBLIC_URL + "/"}>
+              {t("home_fashion_seven")}
+            </Link>
           </li>
           <li>
             <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
@@ -226,7 +226,10 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
             </ul>
           </li>
           <li>
-            <Link to={process.env.PUBLIC_URL + "/blog-standard"}>
+            <Link to={process.env.PUBLIC_URL + "/blogs"}>
+              {t("Blogs")}
+            </Link>
+            {/* <Link to={process.env.PUBLIC_URL + "/blogs"}>
               {t("blog")}
               {sidebarMenu ? (
                 <span>
@@ -250,14 +253,14 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
               <li>
                 <Link to={process.env.PUBLIC_URL + "/blog-right-sidebar"}>
                   {t("blog_right_sidebar")}
-                </Link>
+                </Link> 
               </li>
               <li>
                 <Link to={process.env.PUBLIC_URL + "/blog-details-standard"}>
                   {t("blog_details_standard")}
                 </Link>
               </li>
-            </ul>
+            </ul> */}
           </li>
           <li>
             <Link to={process.env.PUBLIC_URL + "/contact"}>

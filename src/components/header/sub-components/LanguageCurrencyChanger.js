@@ -15,10 +15,10 @@ const LanguageCurrencyChanger = ({ currency }) => {
     const currencyName = e.target.value;
     dispatch(setCurrency(currencyName));
   };
-
+ 
   return (
     <div className="language-currency-wrap">
-      <div className="same-language-currency language-style">
+      <div className="same-language-currency language-style">  
         <span>
           {i18n.resolvedLanguage === "en"
             ? "English"
@@ -60,7 +60,7 @@ const LanguageCurrencyChanger = ({ currency }) => {
                 Taka
               </button>
             </li>
-            {/* <li>
+            <li>
               <button value="EUR" onClick={e => setCurrencyTrigger(e)}>
                 EUR
               </button>  
@@ -69,7 +69,7 @@ const LanguageCurrencyChanger = ({ currency }) => {
               <button value="GBP" onClick={e => setCurrencyTrigger(e)}>
                 GBP
               </button>
-            </li> */}
+            </li>
           </ul>
         </div>
       </div>

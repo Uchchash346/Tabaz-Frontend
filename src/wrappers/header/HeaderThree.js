@@ -31,7 +31,7 @@ const HeaderThree = () => {
         <div className="container-fluid">
           <div className="header-top-wap">
             {/* language currency changer */}
-            <LanguageCurrencyChanger currency={currency} />
+            <LanguageCurrencyChanger currency={currency} /> 
             {/* Icon group */}
             <IconGroup />
           </div>

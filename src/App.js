@@ -3,23 +3,23 @@ import ScrollToTop from "./helpers/scroll-top";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 // home pages
-const HomeFashion = lazy(() => import("./pages/home/HomeFashion"));
-const HomeFashionTwo = lazy(() => import("./pages/home/HomeFashionTwo"));
-const HomeFashionThree = lazy(() => import("./pages/home/HomeFashionThree"));
-const HomeFashionFour = lazy(() => import("./pages/home/HomeFashionFour"));
-const HomeFashionFive = lazy(() => import("./pages/home/HomeFashionFive"));
-const HomeFashionSix = lazy(() => import("./pages/home/HomeFashionSix"));
+// const HomeFashion = lazy(() => import("./pages/home/HomeFashion"));
+// const HomeFashionTwo = lazy(() => import("./pages/home/HomeFashionTwo"));
+// const HomeFashionThree = lazy(() => import("./pages/home/HomeFashionThree"));
+// const HomeFashionFour = lazy(() => import("./pages/home/HomeFashionFour"));
+// const HomeFashionFive = lazy(() => import("./pages/home/HomeFashionFive"));
+// const HomeFashionSix = lazy(() => import("./pages/home/HomeFashionSix"));
 const HomeFashionSeven = lazy(() => import("./pages/home/HomeFashionSeven"));
 const HomeFashionEight = lazy(() => import("./pages/home/HomeFashionEight"));
-const HomeKidsFashion = lazy(() => import("./pages/home/HomeKidsFashion"));
-const HomeCosmetics = lazy(() => import("./pages/home/HomeCosmetics"));
-const HomeFurniture = lazy(() => import("./pages/home/HomeFurniture"));
-const HomeFurnitureTwo = lazy(() => import("./pages/home/HomeFurnitureTwo"));
-const HomeFurnitureThree = lazy(() =>
-  import("./pages/home/HomeFurnitureThree")
-);
-const HomeFurnitureFour = lazy(() => import("./pages/home/HomeFurnitureFour"));
-const HomeFurnitureFive = lazy(() => import("./pages/home/HomeFurnitureFive"));
+// const HomeKidsFashion = lazy(() => import("./pages/home/HomeKidsFashion"));
+// const HomeCosmetics = lazy(() => import("./pages/home/HomeCosmetics"));
+// const HomeFurniture = lazy(() => import("./pages/home/HomeFurniture"));
+// const HomeFurnitureTwo = lazy(() => import("./pages/home/HomeFurnitureTwo"));
+// const HomeFurnitureThree = lazy(() =>
+//   import("./pages/home/HomeFurnitureThree")
+// );
+// const HomeFurnitureFour = lazy(() => import("./pages/home/HomeFurnitureFour"));
+// const HomeFurnitureFive = lazy(() => import("./pages/home/HomeFurnitureFive"));
 const HomeFurnitureSix = lazy(() => import("./pages/home/HomeFurnitureSix"));
 const HomeFurnitureSeven = lazy(() =>
   import("./pages/home/HomeFurnitureSeven")
@@ -84,12 +84,12 @@ const ProductFixedImage = lazy(() =>
 );
 
 // blog pages
-const BlogStandard = lazy(() => import("./pages/blog/BlogStandard"));
-const BlogNoSidebar = lazy(() => import("./pages/blog/BlogNoSidebar"));
+// const BlogStandard = lazy(() => import("./pages/blog/BlogStandard"));
+// const BlogNoSidebar = lazy(() => import("./pages/blog/BlogNoSidebar"));
 const BlogRightSidebar = lazy(() => import("./pages/blog/BlogRightSidebar"));
-const BlogDetailsStandard = lazy(() =>
-  import("./pages/blog/BlogDetailsStandard")
-);
+// const BlogDetailsStandard = lazy(() =>
+//   import("./pages/blog/BlogDetailsStandard")
+// );
 
 // other pages
 const About = lazy(() => import("./pages/other/About"));
@@ -349,22 +349,22 @@ const App = () => {
               /> 
 
               {/* Blog pages */}
-              <Route
+              {/* <Route
                 path={process.env.PUBLIC_URL + "/blog-standard"}
                 element={<BlogStandard/>}
               />
               <Route
                 path={process.env.PUBLIC_URL + "/blog-no-sidebar"}
                 element={<BlogNoSidebar/>}
-              />
+              /> */}
               <Route
-                path={process.env.PUBLIC_URL + "/blog-right-sidebar"}
+                path={process.env.PUBLIC_URL + "/blogs"}
                 element={<BlogRightSidebar/>}
               />
-              <Route
+              {/* <Route
                 path={process.env.PUBLIC_URL + "/blog-details-standard"}
                 element={<BlogDetailsStandard/>}
-              /> 
+              />  */}
 
               {/* Other pages */}
               <Route

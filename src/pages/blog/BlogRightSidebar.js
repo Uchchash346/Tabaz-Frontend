@@ -13,15 +13,15 @@ const BlogRightSidebar = () => {
   return (
     <Fragment>
       <SEO
-        titleTemplate="Blog"
-        description="Blog of tavaas react minimalist eCommerce template."
+        titleTemplate="Blogs"
+        description="Blog of Tavvas"
       />
       <LayoutOne headerTop="visible">
         {/* breadcrumb */}
         <Breadcrumb 
           pages={[
             {label: "Home", path: process.env.PUBLIC_URL + "/" },
-            {label: "Blog", path: process.env.PUBLIC_URL + pathname }
+            {label: "Blogs", path: process.env.PUBLIC_URL + pathname }
           ]} 
         />
         <div className="blog-area pt-100 pb-100">
