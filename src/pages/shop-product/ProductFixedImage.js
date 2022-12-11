@@ -22,7 +22,7 @@ const ProductFixedImage = () => {
         description="Product page of tavaas react minimalist eCommerce template."
       />
 
-      <LayoutOne headerTop="visible">
+      <LayoutOne headerTop="invisible">
         {/* breadcrumb */}
         <Breadcrumb 
           pages={[

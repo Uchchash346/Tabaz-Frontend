@@ -15,7 +15,7 @@ const HomeCakeShop = () => {
         titleTemplate="Cake shop Home"
         description="Black shop home of tavaas react minimalist eCommerce template."
       />
-      <LayoutOne headerTop="visible">
+      <LayoutOne headerTop="invisible">
         {/* hero slider */}
         <HeroSliderTwentyTwo />
         {/* banner */}

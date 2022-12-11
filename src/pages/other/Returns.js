@@ -4,7 +4,7 @@ import LayoutOne from '../../layouts/LayoutOne';
 const Returns = () => {
     return (
         <Fragment>
-            <LayoutOne headerTop="visible">
+            <LayoutOne headerTop="invisible">
                 <h1 className='text-center pt-5'>Return Policies</h1>
                 <p className='text-center'>What do you want to know more about our business? Browse this page and find your relevant query answer! Do you need more information? Then call our hotline:</p>
                 <h3 className='text-center text-success'>Phone: +880 1404 88 44 33</h3>

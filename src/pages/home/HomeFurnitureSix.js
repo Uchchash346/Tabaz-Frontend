@@ -18,7 +18,7 @@ const HomeFurnitureSix = () => {
         description="Furniture shop home of tavaas react minimalist eCommerce template."
       />
       <LayoutEight
-        headerTop="visible"
+        headerTop="invisible"
         headerContainerClass="container-fluid"
         headerBorderStyle="fluid-border"
         headerPaddingClass="header-padding-2"

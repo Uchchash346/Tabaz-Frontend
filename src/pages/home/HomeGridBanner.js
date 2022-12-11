@@ -12,7 +12,7 @@ const HomeGridBanner = () => {
         description="Grid banner home of tavaas react minimalist eCommerce template."
       />
       <LayoutThree
-        headerTop="visible"
+        headerTop="invisible"
         headerContainerClass="container-fluid"
         headerBorderStyle="fluid-border"
         headerPaddingClass="header-padding-2"

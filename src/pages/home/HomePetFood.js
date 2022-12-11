@@ -16,7 +16,7 @@ const HomePetFood = () => {
         titleTemplate="Pet Food Home"
         description="Pet food home of tavaas react minimalist eCommerce template."
       />
-      <LayoutOne headerTop="visible">
+      <LayoutOne headerTop="invisible">
         {/* hero slider */}
         <HeroSliderTwentyThree />
         {/* banner */}

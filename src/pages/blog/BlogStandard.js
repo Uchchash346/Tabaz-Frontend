@@ -16,7 +16,7 @@ const BlogStandard = () => {
         titleTemplate="Blog"
         description="Blog of tavaas react minimalist eCommerce template."
       />
-      <LayoutOne headerTop="visible">
+      <LayoutOne headerTop="invisible">
         {/* breadcrumb */}
         <Breadcrumb 
           pages={[

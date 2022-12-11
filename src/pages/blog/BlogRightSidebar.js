@@ -16,7 +16,7 @@ const BlogRightSidebar = () => {
         titleTemplate="Blogs"
         description="Blog of Tavvas"
       />
-      <LayoutOne headerTop="visible">
+      <LayoutOne headerTop="invisible">
         {/* breadcrumb */}
         <Breadcrumb 
           pages={[

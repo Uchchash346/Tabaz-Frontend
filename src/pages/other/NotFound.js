@@ -13,7 +13,7 @@ const NotFound = () => {
         titleTemplate="Not Found"
         description="404 of tavaas react minimalist eCommerce template."
       />
-      <LayoutOne headerTop="visible">
+      <LayoutOne headerTop="invisible">
         {/* breadcrumb */}
         <Breadcrumb 
           pages={[

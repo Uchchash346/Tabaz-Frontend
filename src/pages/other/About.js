@@ -19,7 +19,7 @@ const About = () => {
         titleTemplate="About us"
         description="About page of tavaas react minimalist eCommerce template."
       /> 
-      <LayoutOne headerTop="visible">
+      <LayoutOne headerTop="invisible">
         {/* breadcrumb */}
         <Breadcrumb 
           pages={[

@@ -53,7 +53,7 @@ const ShopGridFilter = () => {
                 description="Shop page of tavaas react minimalist eCommerce template."
             />
 
-            <LayoutOne headerTop="visible">
+            <LayoutOne headerTop="invisible">
                 {/* breadcrumb */}
                 <Breadcrumb 
                     pages={[

@@ -17,7 +17,7 @@ const HomeOrganicFood = () => {
         description="Organic food home of tavaas react minimalist eCommerce template."
       />
       <LayoutThree
-        headerTop="visible"
+        headerTop="invisible"
         headerContainerClass="container-fluid"
         headerBorderStyle="fluid-border"
         headerPaddingClass="header-padding-2"

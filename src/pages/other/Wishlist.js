@@ -23,7 +23,7 @@ const Wishlist = () => {
         titleTemplate="Wishlist"
         description="Wishlist page of tavaas react minimalist eCommerce template."
       />
-      <LayoutOne headerTop="visible">
+      <LayoutOne headerTop="invisible">
         {/* breadcrumb */}
         <Breadcrumb 
           pages={[

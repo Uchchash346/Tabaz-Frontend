@@ -15,7 +15,7 @@ const HomeAutoParts = () => {
         titleTemplate="Auto parts Home"
         description="Auto parts home of tavaas react minimalist eCommerce template."
       />
-      <LayoutOne headerTop="visible">
+      <LayoutOne headerTop="invisible">
         {/* hero slider */}
         <HeroSliderTwentyOne />
         {/* tab product */}

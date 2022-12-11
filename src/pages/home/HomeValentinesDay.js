@@ -16,7 +16,7 @@ const HomeValentinesDay = () => {
         titleTemplate="Valentines Day Home"
         description="Valentines day home of tavaas react minimalist eCommerce template."
       />
-      <LayoutOne headerTop="visible">
+      <LayoutOne headerTop="invisible">
         {/* hero slider */}
         <HeroSliderThirtySix />
         {/* banner */}

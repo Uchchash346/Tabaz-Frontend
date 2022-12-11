@@ -17,7 +17,7 @@ const HomeHandmade = () => {
         titleTemplate="Handmade Home"
         description="Handmade home of tavaas react minimalist eCommerce template."
       />
-      <LayoutOne headerTop="visible">
+      <LayoutOne headerTop="invisible">
         {/* hero slider */}
         <HeroSliderSeventeen />
         {/* category */}

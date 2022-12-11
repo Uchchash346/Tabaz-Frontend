@@ -14,7 +14,7 @@ const Contact = () => {
         titleTemplate="Contact"
         description="Contact page of tavaas react minimalist eCommerce template."
       />
-      <LayoutOne headerTop="visible">
+      <LayoutOne headerTop="invisible">
         {/* breadcrumb */}
         <Breadcrumb 
           pages={[

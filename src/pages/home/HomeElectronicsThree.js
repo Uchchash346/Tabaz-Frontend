@@ -16,7 +16,7 @@ const HomeElectronicsThree = () => {
         titleTemplate="Electronics Home"
         description="Electronics home of tavaas react minimalist eCommerce template."
       />
-      <LayoutOne headerTop="visible">
+      <LayoutOne headerTop="invisible">
         {/* hero slider */}
         <HeroSliderTwentySeven />
         {/* banner */}

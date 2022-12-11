@@ -16,7 +16,7 @@ const HomeOrganicFoodTwo = () => {
         titleTemplate="Organic Food Home"
         description="Organic food home of tavaas react minimalist eCommerce template."
       />
-      <LayoutOne headerTop="visible">
+      <LayoutOne headerTop="invisible">
         {/* hero slider */}
         <HeroSliderTwenty spaceLeftClass="ml-70" spaceRightClass="mr-70" />
         {/* feature icon */}

@@ -16,7 +16,7 @@ const HomeBookStoreTwo = () => {
         titleTemplate="Book store Home"
         description="Book store home of tavaas react minimalist eCommerce template."
       />
-      <LayoutOne headerTop="visible">
+      <LayoutOne headerTop="invisible">
         {/* hero slider */}
         <HeroSliderTwentyFour />
         {/* banner */}
