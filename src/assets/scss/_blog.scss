@@ -521,25 +521,7 @@
     order: 2;
     margin-top: 35px;
   }
-
-  // #blog-and-sidebar{
-  //   #all-blog-section {
-  //     order: 2 !important;
-  //   }
-  //   #blog-sidebar{
-  //     order: 1 !important;
-  //   }
-  // }
 }
-
-// #all-blog-section {
-//   @media #{$xs-layout} {
-//     #all-blog-section {
-//       order: 2 !important;
-//       margin-top: 35px;
-//     }
-//   }
-// }
 
 .Blog-area {
   @media #{$xs-layout} {
