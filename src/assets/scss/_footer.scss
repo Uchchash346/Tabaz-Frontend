@@ -300,6 +300,10 @@
     }
   }
   @media #{$xs-layout} {
+    text-align: center;
+    .footer-widget{
+      display: none;
+    }
     &.ml-70 {
       margin-left: 15px;
     }

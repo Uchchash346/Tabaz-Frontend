@@ -19,8 +19,10 @@ const FooterCopyright = ({ footerLogo, spaceBottomClass, colorClass }) => {
         >
           tavaas
         </a>
-        .<br /> All Rights Reserved
+        .<br />All Rights Reserved || Made with ❤️ by <a href="https://techabyte.xyz/">TechAByte Solutions</a>
+        <br />
       </p>
+      {/* <p>Made with ❤️ by <a href="https://techabyte.xyz/">TechAByte Solutions</a></p> */}
     </div>
   );
 };
