@@ -214,6 +214,25 @@
   }
 }
 
+
+  @media #{$xs-layout} {
+    #sidebar-tag-section {
+      display: none !important;
+      // z-index: 1;
+      // order: 1;
+    }
+    // #sidebar-section {
+    // }
+  }
+
+  // @media #{$xs-layout} {
+  //   // #all-blog-section {
+  //   //   order: 2;
+  //   //   margin-top: 35px;
+  //   // }
+    
+  // }
+
 .pro-sidebar-search {
   .pro-sidebar-search-form {
     position: relative;

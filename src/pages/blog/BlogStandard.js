@@ -26,10 +26,10 @@ const BlogStandard = () => {
         />
         <div className="blog-area pt-100 pb-100">
           <div className="container">
-            <div className="row flex-row-reverse">
-              <div className="col-lg-9">
-                <div className="ml-20">
-                  <div className="row">
+            <div className="row flex-row-reverse" id="blog-and-sidebar">
+              <div className="col-lg-9" id="all-blog-section">
+                <div className="ml-20" >
+                  <div className="row" id="sidebar-section">
                     {/* blog posts */}
                     <BlogPosts />
                   </div>
@@ -38,7 +38,7 @@ const BlogStandard = () => {
                   <BlogPagination />
                 </div>
               </div>
-              <div className="col-lg-3">
+              <div className="col-lg-3" id="blog-sidebar">
                 {/* blog sidebar */}
                 <BlogSidebar />
               </div>

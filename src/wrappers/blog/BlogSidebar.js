@@ -143,7 +143,7 @@ const BlogSidebar = () => {
           </ul>
         </div>
       </div>
-      <div className="sidebar-widget mt-50">
+      <div className="sidebar-widget mt-50" id="sidebar-tag-section">
         <h4 className="pro-sidebar-title">Tag </h4>
         <div className="sidebar-widget-tag mt-25">
           <ul>

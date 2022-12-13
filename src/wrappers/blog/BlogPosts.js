@@ -10,7 +10,7 @@ const BlogPosts = () => {
               <img
                 src={process.env.PUBLIC_URL + "/assets/img/blog/blog-9.jpg"}
                 alt=""
-              />
+              /> 
             </Link>
           </div>
           <div className="blog-content-2">
