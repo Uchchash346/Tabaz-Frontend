@@ -16,7 +16,7 @@ const TabProductNine = ({
   return (
     <div className={clsx("product-area", spaceTopClass, spaceBottomClass, extraClass)}>
       <div className={`${containerClass ? containerClass : "container"}`}>
-        <SectionTitleThree
+        <SectionTitleThree 
           titleText="Featured Products"
           positionClass="text-center"
         />
@@ -75,7 +75,7 @@ const TabProductNine = ({
         <div className="view-more round-btn text-center mt-20 toggle-btn6 col-12">
           <Link
             className="loadMore6"
-            to={process.env.PUBLIC_URL + "/shop-grid-standard"}
+            to={process.env.PUBLIC_URL + "/shop"}
           >
             Discover More
           </Link>

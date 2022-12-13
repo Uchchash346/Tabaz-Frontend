@@ -23,6 +23,8 @@
     margin-top: 20px;
     margin-bottom: 30px;
     padding: 50px 20px 45px 30px;
+    // align-items: center;
+    // justify-content: center;
   }
   .single-contact-info {
     display: flex;
@@ -69,6 +71,11 @@
     &:hover .contact-icon i {
       color: #fff;
       background-color: #252525;
+    }
+  }
+  .single-contact-info{
+    @media #{$xs-layout} {
+      justify-content: center;
     }
   }
 }
@@ -157,7 +164,12 @@
       &:hover {
         background-color: $theme-color;
       }
+      @media #{$xs-layout}{
+        position: relative;
+        left: 25%;
+      }
     }
+    
   }
   p {
     color: #333;

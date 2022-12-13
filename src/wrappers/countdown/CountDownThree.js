@@ -15,7 +15,7 @@ const CountDownThree = ({
         <div className="row align-items-center">
           <div className="col-md-8 col-lg-6 order-1 order-lg-2">
             <div className="funfact-content funfact-res text-center">
-              <h2>Deal of the day</h2>
+              <h2>Deal of the day2</h2>
               <div className="timer">
                 <CountdownTimer date={dateTime} />
               </div>
