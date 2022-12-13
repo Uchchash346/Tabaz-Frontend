@@ -2,10 +2,10 @@
 .product-area {
   position: relative;
   .row {
-    &.three-column {
+     &.three-column {
       .col-xl-3 {
         flex: 1 0 33.3333%;
-
+        // width: 50% !important;
         max-width: 33.3333%;
 
         transition: 0.5s;
@@ -22,8 +22,11 @@
         }
         @media #{$xs-layout} {
           flex: 1 0 100%;
-
+          // width: 50% !important;
           max-width: 100%;
+          // .all-products{
+          //   width: 50% !important;
+          // }
         }
       }
     }
@@ -106,6 +109,12 @@
         text-align: center;
       }
     }
+  }
+}
+
+@media #{$xs-layout} {
+  .all-products{
+    width: 50% !important;
   }
 }
 
