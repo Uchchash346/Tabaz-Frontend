@@ -17,7 +17,7 @@ const FooterCopyright = ({ footerLogo, spaceBottomClass, colorClass }) => {
           rel="noopener noreferrer"
           target="_blank"
         >
-          tavaas
+          Tavaas
         </a>
         .<br />All Rights Reserved || Made with ❤️ by <a href="https://techabyte.xyz/">TechAByte Solutions</a>
         <br />
