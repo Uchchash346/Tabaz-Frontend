@@ -1,9 +1,9 @@
 /*------- 6. Product style  --------*/
-.product-wrap{
+.col-xl-4{
   @media #{$xs-layout} {
     flex: 1 0 50%;
-    width: 50% !important;
-    max-width: 100%;
+    // width: 50% !important;
+    max-width: 50% !important;
     // .all-products{
     //   width: 50% !important;
     // }
