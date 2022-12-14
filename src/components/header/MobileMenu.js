@@ -3,6 +3,7 @@ import MobileMenuSearch from "./sub-components/MobileSearch";
 import MobileNavMenu from "./sub-components/MobileNavMenu";
 import MobileLangCurChange from "./sub-components/MobileLangCurrChange";
 import MobileWidgets from "./sub-components/MobileWidgets";
+import NavMenu from "./NavMenu";
 
 const MobileMenu = () => {
   useEffect(() => {
@@ -60,12 +61,13 @@ const MobileMenu = () => {
 
           {/* mobile nav menu */}
           <MobileNavMenu />
+          {/* <NavMenu /> */}
 
           {/* mobile language and currency */} 
-          <MobileLangCurChange />
+          {/* <MobileLangCurChange /> */}
 
           {/* mobile widgets */}
-          <MobileWidgets />
+          <MobileWidgets /> 
         </div>
       </div>
     </div>
