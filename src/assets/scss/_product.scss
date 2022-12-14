@@ -124,6 +124,7 @@
   &.pt-55 {
     @media #{$xs-layout} {
       padding: 10px 0 30px;
+      width: 400px;
     }
   }
   @media #{$md-layout} {
