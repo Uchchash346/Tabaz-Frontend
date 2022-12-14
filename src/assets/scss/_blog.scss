@@ -513,24 +513,24 @@
   }
 }
 
-@media #{$md-layout} {
-  .col-lg-3 {
-    order: 1;
-  }
-  .col-lg-9 {
-    order: 2;
-    margin-top: 35px;
-  }
-}
-@media #{$xs-layout} {
-  .col-lg-3 {
-    order: 1;
-  }
-  .col-lg-9 {
-    order: 2;
-    margin-top: 35px;
-  }
-}
+// @media #{$md-layout} {
+//   .col-lg-3 {
+//     order: 1;
+//   }
+//   .col-lg-9 {
+//     order: 2;
+//     margin-top: 35px;
+//   }
+// }
+// @media #{$xs-layout} {
+//   .col-lg-3 {
+//     order: 1;
+//   }
+//   .col-lg-9 {
+//     order: 2;
+//     margin-top: 35px;
+//   }
+// }
 
 .Blog-area {
   @media #{$xs-layout} {

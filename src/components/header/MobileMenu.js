@@ -1,9 +1,9 @@
 import React, { useEffect } from "react";
 import MobileMenuSearch from "./sub-components/MobileSearch";
 import MobileNavMenu from "./sub-components/MobileNavMenu";
-import MobileLangCurChange from "./sub-components/MobileLangCurrChange";
+// import MobileLangCurChange from "./sub-components/MobileLangCurrChange";
 import MobileWidgets from "./sub-components/MobileWidgets";
-import NavMenu from "./NavMenu";
+// import NavMenu from "./NavMenu";
 
 const MobileMenu = () => {
   useEffect(() => {
