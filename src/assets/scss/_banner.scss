@@ -962,13 +962,13 @@
 
     transform: translateY(-50%);
     @media #{$xs-layout} {
-      left: 20px;      
+      left: 20px;
     }
 
     @media #{$sm-layout} {
-        .single-banner-2 a img {
-          height: 150px !important;
-        }
+      .single-banner-2 a img {
+        height: 150px !important;
+      }
     }
 
     h3 {
@@ -1359,7 +1359,6 @@
     }
   }
 }
-
 
 .col-width-banner33-1 {
   position: relative;

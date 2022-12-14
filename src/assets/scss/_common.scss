@@ -1936,16 +1936,23 @@ a.default-btn {
 .bg-cover {
   background-size: cover;
 }
-.product-small-image-wrapper.product-small-image-wrapper--side-thumb .swiper-wrap,
+.product-small-image-wrapper.product-small-image-wrapper--side-thumb
+  .swiper-wrap,
 .swiper-pointer-events.swiper-vertical {
   height: 100%;
 }
 
 @keyframes bounce {
-  0%   { transform: translateY(0); }
-  50%  { transform: translateY(-30px); }
-  100% { transform: translateY(0); }
-} 
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-30px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
 
 .map-marker {
   animation-name: bounce;
