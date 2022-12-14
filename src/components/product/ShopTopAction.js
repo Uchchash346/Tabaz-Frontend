@@ -29,7 +29,7 @@ const ShopTopAction = ({
         <button
           onClick={e => {
             getLayout("grid two-column");
-            setActiveLayout(e);
+            setActiveLayout(e); 
           }}
         >
           <i className="fa fa-th-large" />

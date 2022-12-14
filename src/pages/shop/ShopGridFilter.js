@@ -3,7 +3,7 @@ import { useSelector } from "react-redux";
 import Paginator from 'react-hooks-paginator';
 import { useLocation } from "react-router-dom"
 import { getSortedProducts } from '../../helpers/product';
-import SEO from "../../components/seo";
+import SEO from "../../components/seo"; 
 import LayoutOne from '../../layouts/LayoutOne';
 import Breadcrumb from '../../wrappers/breadcrumb/Breadcrumb';
 import ShopTopbarFilter from '../../wrappers/product/ShopTopbarFilter';
@@ -44,7 +44,7 @@ const ShopGridFilter = () => {
         sortedProducts = filterSortedProducts;
         setSortedProducts(sortedProducts);
         setCurrentData(sortedProducts.slice(offset, offset + pageLimit));
-    }, [offset, products, sortType, sortValue, filterSortType, filterSortValue ]);
+    }, [offset, products, sortType, sortValue, filterSortType, filterSortValue]);
 
     return (
         <Fragment>
@@ -55,11 +55,11 @@ const ShopGridFilter = () => {
 
             <LayoutOne headerTop="invisible">
                 {/* breadcrumb */}
-                <Breadcrumb 
+                <Breadcrumb
                     pages={[
-                        {label: "Home", path: process.env.PUBLIC_URL + "/" },
-                        {label: "Shop", path: process.env.PUBLIC_URL + pathname }
-                    ]} 
+                        { label: "Home", path: process.env.PUBLIC_URL + "/" },
+                        { label: "Shop", path: process.env.PUBLIC_URL + pathname }
+                    ]}
                 />
 
                 <div className="shop-area pt-95 pb-100">
@@ -67,7 +67,7 @@ const ShopGridFilter = () => {
                         <div className="row">
                             <div className="col-lg-12">
                                 {/* shop topbar filter */}
-                                <ShopTopbarFilter getLayout={getLayout} getFilterSortParams={getFilterSortParams} productCount={products.length} sortedProductCount={currentData.length} products={products} getSortParams={getSortParams}/>
+                                <ShopTopbarFilter getLayout={getLayout} getFilterSortParams={getFilterSortParams} productCount={products.length} sortedProductCount={currentData.length} products={products} getSortParams={getSortParams} />
 
                                 {/* shop page content default */}
                                 <ShopProducts layout={layout} products={currentData} />
